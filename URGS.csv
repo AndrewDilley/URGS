@@ -1,0 +1,1566 @@
+﻿property_no,description,debt_amount,event_description,event_datetime
+740700850,Hamilton,97.32,URGs Application - Successful - FC2017/07266,27/07/2017
+1543450600,Casterton,500,URGs Application - Successful - FC2017/07269,27/07/2017
+5211730400,Dennington,500,URGs Application - Successful - FC2017/07271,27/07/2017
+5211730400,Dennington,NULL,NULL,8/08/2017
+444735200,Coleraine,NULL,URGs Application - Successful - FC2017/07959,16/08/2017
+9133290200,Heywood,NULL,URGs Application - Successful - FC2017/07960,16/08/2017
+4607860150,Simpson,500,URGs Application - Successful - FC2017/07961,16/08/2017
+741040500,Hamilton,500,URGs Application - Successful - FC2017/08215,23/08/2017
+743800200,Hamilton,500,URGs Application - Successful - FC2017/08217,23/08/2017
+9333741850,Portland,422.12,URGs Application - Successful - FC2017/08222,23/08/2017
+2202080100,Camperdown,NULL,URGs Application - Successful,30/08/2017
+4804584800,Terang,NULL,URGs Application - Successful,30/08/2017
+4810302700,Terang,NULL,URGs Application - Successful,30/08/2017
+9333672550,Portland,NULL,URGs Application - Successful,30/08/2017
+5207551500,Warrnambool,NULL,URGs Application - Successful,11/09/2017
+5206950650,Warrnambool,500,URGs Application - Successful - FC2017/08830,11/09/2017
+5200860200,Warrnambool,500,URGs Application - Successful - FC2017/08832,11/09/2017
+5200331000,Warrnambool,NULL,URGs Application - Successful - FC2017/08833,11/09/2017
+3002792650,Cobden,NULL,URGs Application - Successful -FC2017/08840,11/09/2017
+2200491500,Camperdown,NULL,URGs Application - Successful - FC2017/08840,11/09/2017
+5211731400,Dennington,NULL,URGs Application - Successful - FC2017/09090,18/09/2017
+2203850450,Camperdown,NULL,URGs Application - Successful - FC2017/09092,18/09/2017
+5212470785,Dennington,NULL,URGs Application - Successful - FC2017/09093,18/09/2017
+9330271300,Portland,NULL,URGs Application - Successful - FC2017/09279,21/09/2017
+743740400,Hamilton,500,URGs Application - Successful - FC2017/09745,5/10/2017
+9332371550,Portland,475.5,URGs Application - Successful,6/10/2017
+9133182500,Heywood,315.26,URGs Application - Successful,6/10/2017
+3205063550,Koroit,500,URGs Application - Successful,6/10/2017
+5210734000,Warrnambool,500,URGs Application - Successful,6/10/2017
+9333253100,Portland,NULL,URGs Application - Successful - FC2017/09789,9/10/2017
+5209080350,Warrnambool,182.79,URGs Application - Successful,9/10/2017
+742970700,Hamilton,370.15,URGs Application - Successful - FC2017/09923,11/10/2017
+5206171850,Warrnambool,190.78,URGs Application - Successful - FC2017/10173,18/10/2017
+541570450,Moutajup,NULL,URGs Application - Successful - FC2017/10212,19/10/2017
+841881200,Macarthur,NULL,URGs Application - Successful,19/10/2017
+5200441500,Warrnambool,500,URGs Application - Successful - FC2017/10218,19/10/2017
+740200200,Hamilton,500,URGs Application - Successful,20/10/2017
+2206190400,Camperdown,500,URGs Application - Successful,20/10/2017
+5205811700,Warrnambool,148.19,URGs Application - Successful,20/10/2017
+5209490250,Warrnambool,265.72,URGs Application - Successful,25/10/2017
+5208803947,Warrnambool,409.1,URGs Application - Successful,25/10/2017
+744243450,Hamilton,254.84,URGs Application - Successful,1/11/2017
+5206151580,Warrnambool,190.58,URGs Application - Successful,1/11/2017
+5210080250,Warrnambool,322.6,URGs Application - Successful,1/11/2017
+3002793850,Cobden,186.76,URGs Application - Successful,1/11/2017
+5203940250,Warrnambool,500,URGs Application - Successful -FC2017/11605,16/11/2017
+9331303660,Portland,500,URGs Application - Successful,5/12/2017
+4804584200,Terang,500,URGs Application - Successful,5/12/2017
+3010592400,Cobden,481.68,URGs Application - Successful,12/12/2017
+9231311200,Port Fairy,NULL,URGs Application - Successful,12/12/2017
+5206160500,Warrnambool,NULL,URGs Application - Successful,18/12/2017
+5209021200,Dennington,151.48,URGs Application - Successful,18/12/2017
+9133350100,Heywood,253.76,URGs Application - Successful,18/12/2017
+9231074200,Port Fairy,498.73,URGs Application - Successful,10/01/2018
+5210363642,Warrnambool,500,URGs Application - Successful,10/01/2018
+9131294150,Heywood,500,URGs Application - Successful - FC2018/00610,23/01/2018
+9331481850,Portland,198.11,URGs Application - Successful - FC2018/00612,23/01/2018
+9333650200,Portland,269.83,URGs Application - Successful,15/02/2018
+941980150,Merino,438.2,URGs Application - Successful,27/02/2018
+5205261200,Warrnambool,500,URGs Application - Successful,27/02/2018
+5211160100,Warrnambool,NULL,URGs Application - Successful - FC2018/02585,15/03/2018
+5208802940,Warrnambool,500,URGs Application - Successful - FC2018/02601,16/03/2018
+9333671500,Portland,NULL,URGs Application - Successful - FC2018/02678,19/03/2018
+9132690300,Heywood,NULL,URGs Application - Successful - FC2018/02682,19/03/2018
+9132320150,Heywood,NULL,URGs Application - Successful - FC2018/02684,19/03/2018
+5207410850,Warrnambool,500,URGs Application - Successful - FC2018/02812,21/03/2018
+5207340850,Warrnambool,NULL,URGs Application - Successful - FC2018/03020,26/03/2018
+5202702900,Warrnambool,NULL,URGs Application - Successful,26/03/2018
+9330540400,Portland,442.08,URGs Application - Successful,26/03/2018
+5205030450,Warrnambool,500,URGs Application - Successful - FC2018/03946,17/04/2018
+442872850,Coleraine,377.2,URGs Application - Successful,17/04/2018
+740960100,Hamilton,200,URGs Application - Successful,17/04/2018
+2204941200,Camperdown,470.97,URGs Application - Successful,17/04/2018
+4800871700,Terang,446.5,URGs Application - Successful,17/04/2018
+9333741000,Portland,478.39,URGs Application - Successful,17/04/2018
+9231881650,Port Fairy,210.1,URGs Application - Successful,17/04/2018
+9331301740,Portland,500,URGs Application - Successful,17/04/2018
+4807570500,Terang,500,URGs Application - Successful - FC2018/03995,18/04/2018
+5202420500,Warrnambool,NULL,URGs Application - Successful - FC2018/04001,18/04/2018
+5207210400,Warrnambool,NULL,URGs Application - Successful - FC2018/04002,18/04/2018
+9132182200,Heywood,NULL,URGs Application - Successful - FC2018/04004,18/04/2018
+9132320550,Heywood,NULL,URGs Application - Successful - FC2018/04005,18/04/2018
+9330510500,Portland,NULL,URGs Application - Successful - FC2018/04006,18/04/2018
+1441350150,Muntham,500,URGs Application - Successful,26/04/2018
+741011250,Hamilton,500,URGs Application - Successful,26/04/2018
+3002740100,Cobden,480.61,URGs Application - Successful,26/04/2018
+541571800,Dunkeld,410.76,URGs Application - Successful,26/04/2018
+3607540700,Mortlake,500,URGs Application - Successful,26/04/2018
+9132891100,Heywood,500,URGs Application - Successful,26/04/2018
+2206281500,Camperdown,500,URGs Application - Successful - FC2018/04789,7/05/2018
+5002990400,Timboon,854.51,URGs Application - Successful - FC2018/04791,7/05/2018
+742277400,Hamilton,399.77,URGs Application - Successful,10/05/2018
+5203903600,Warrnambool,300,URGs Application - Successful,10/05/2018
+9330221200,Portland,317.73,URGs Application - Successful,10/05/2018
+9330346200,Portland,NULL,URGs Application - Successful,10/05/2018
+9330760150,Portland,500,URGs Application - Successful,10/05/2018
+9332091400,Portland,500,URGs Application - Successful - FC2018/05127,10/05/2018
+9332410300,Portland,488.38,URGs Application - Successful - FC2018/05131,10/05/2018
+9331000600,Portland,NULL,URGs Application - Successful - FC2018/05135,10/05/2018
+540020050,Dunkeld,500,URGs Application - Successful - FC2018/05316,15/05/2018
+744710750,Hamilton,500,URGs Application - Successful,15/05/2018
+5207290100,Warrnambool,305.84,URGs Application - Successful - FC2018/05322,15/05/2018
+5209581550,Warrnambool,NULL,URGs Application - Successful - FC2018/05325,15/05/2018
+9331301480,Portland,273.25,URGs Application - Successful - FC2018/05327,15/05/2018
+9333610200,Portland,NULL,URGs Application - Successful - FC2018/05329,15/05/2018
+1044651100,Penshurst,500,URGs Application - Successful - FC2018/05594,22/05/2018
+1244430400,Tarrington,NULL,URGs Application - Successful - FC2018/05596,22/05/2018
+2004070550,Allansford,NULL,URGs Application - Successful - FC2018/05597,22/05/2018
+5200631000,Dennington,NULL,URGs Application - Successful - FC2018/05600,22/05/2018
+8101280700,Carpendeit,500,URGs Application - Successful - FC2018/05602,22/05/2018
+9333252550,Portland,NULL,URGs Application - Successful - FC2018/05603,22/05/2018
+5210733700,Warrnambool,431.22,URGs Application - Successful - FC2018/05611,22/05/2018
+444734000,Coleraine,339.58,URGs Application - Successful - FC2018/06471,29/05/2018
+5204280150,Warrnambool,500,URGs Application - Successful - FC2018/06473,29/05/2018
+9331922900,Portland,NULL,URGs Application - Successful -FC2018/06475,29/05/2018
+243090700,Casterton,333.52,URGs Application - Successful FC2018/06815,5/06/2018
+740970450,Hamilton,281.92,URGs Application - Successful FC2018/06833,5/06/2018
+744711900,Hamilton,500,URGs Application - Successful FC2018/06834,5/06/2018
+3205450600,Koroit,412.53,URGs Application - Successful FC2018/06839,5/06/2018
+5007050100,Timboon,500,URGs Application - Successful FC2018/06841,5/06/2018
+5210290850,Warrnambool,500,URGs Application - Successful FC2018/06849,6/06/2018
+5212090550,Warrnambool,500,URGs Application - Successful FC2018/06851,6/06/2018
+5212090550,Warrnambool,500,URGs Application - Successful,6/06/2018
+5212250550,Warrnambool,334.98,URGs Application - Successful FC2018/06852,6/06/2018
+9333090300,Portland,500,URGs Application - Successful FC2018/06860,6/06/2018
+9330732750,Portland,413.2,URGs Application - Successful - FC2018/07889,13/06/2018
+9132320950,Heywood,500,URGs Application - Successful - FC2018/08058,18/06/2018
+9232983850,Port Fairy,500,URGs Application - Successful - FC2018/08059,18/06/2018
+3610130050,Mortlake,NULL,URGs Application - Successful - FC2018/08340,27/06/2018
+5203310450,Warrnambool,NULL,URGs Application - Successful - FC2018/08345,27/06/2018
+5208080400,Warrnambool,NULL,URGs Application - Successful - FC2018/08346,27/06/2018
+5209270200,Warrnambool,NULL,URGs Application - Successful - FC2018/08348,27/06/2018
+5213200120,Warrnambool,NULL,URGs Application - Successful,27/06/2018
+9333100550,Portland,NULL,URGs Application - Successful,27/06/2018
+3205620350,Koroit,500,URGs Application - Successful - FC2018/08355,27/06/2018
+744292200,Hamilton,500,URGs Application - Successful - FC2018/08653,4/07/2018
+5202140800,Warrnambool,NULL,URGs Application - Successful - FC2018/08654,4/07/2018
+9333602050,Portland,NULL,URGs Application - Successful,4/07/2018
+9131831050,Heywood,NULL,URGs Application - Successful,4/07/2018
+3002795800,Cobden,NULL,URGs Application - Successful - FC2018/08675,4/07/2018
+742982000,Hamilton,305.11,URGs Application - Successful,10/07/2018
+541180950,Dunkeld,NULL,URGs Application - Successful,12/07/2018
+3607320400,Mortlake,650,URGs Application - Successful FC2018/09101,17/07/2018
+3205620250,Koroit,NULL,URGs Application - Successful - FC2018/09481,25/07/2018
+9330733300,Portland,NULL,URGs Application - Successful - FC2018/09483,25/07/2018
+9333261300,Portland,478.99,URGs Application - Successful,26/07/2018
+9330734950,Portland,543.05,URGs Application - Successful,26/07/2018
+1040730300,Penshurst,650,URGs Application - Successful FC2018/09687,30/07/2018
+2209140100,Camperdown,650,URGs Application - Successful FC2018/09690,30/07/2018
+9003530650,Dartmoor,477.72,URGs Application - Successful FC2018/09692,31/07/2018
+5200463850,Warrnambool,392.06,URGs Application - Successful FC2018/09705,31/07/2018
+5208805220,Dennington,523.72,URGs Application - Successful FC2018/09709,31/07/2018
+5212392150,Warrnambool,313.45,URGs Application - Successful FC2018/09710,31/07/2018
+9330632400,Portland,553.18,URGs Application - Successful FC2018/09711,31/07/2018
+9330632400,Portland,553.18,URGs Application - Successful,31/07/2018
+9331301020,Portland,511.13,URGs Application - Successful FC2018/09712,31/07/2018
+5203262090,Warrnambool,650,URGs Application - Successful FC2018/09713,31/07/2018
+5203262090,Warrnambool,NULL,URGs Application - Successful,31/07/2018
+740141700,Hamilton,650,NULL,31/07/2018
+3605801850,Mortlake,650,URGs Application - Successful,6/08/2018
+241510600,Casterton,650,URGs Application - Successful FC2018/10145,7/08/2018
+443531950,Coleraine,650,URGs Application - Successful FC2018/10145,7/08/2018
+743991100,Hamilton,387.23,URGs Application - Successful FC2018/10148,7/08/2018
+744291400,Hamilton,650,URGs Application - Successful FC2018/10151,7/08/2018
+1142640600,Sandford,NULL,URGs Application - Successful FC2018/10152,7/08/2018
+4810303150,Terang,650,URGs Application - Successful FC2018/10154,7/08/2018
+5202971150,Warrnambool,650,URGs Application - Successful FC2018/10155,7/08/2018
+5207410800,Warrnambool,611.27,URGs Application - Successful FC2018/10159,7/08/2018
+5214220550,Warrnambool,314.84,URGs Application - Successful FC2018/10162,7/08/2018
+9332790650,Portland,542.07,URGs Application - Successful FC2018/10162,7/08/2018
+741891100,Hamilton,NULL,URGs Application - Successful - FC2018/10613,15/08/2018
+2203852900,Camperdown,650,URGs Application - Successful - FC2018/10621,15/08/2018
+2209141100,Camperdown,NULL,URGs Application - Successful - FC2018/10623,15/08/2018
+9232900060,Port Fairy,NULL,URGs Application - Successful - FC2018/10624 - $372.77,15/08/2018
+9330580550,Portland,650,URGs Application - Successful,15/08/2018
+3202510350,Koroit,NULL,URGs Application - Successful - FC2018/10925,23/08/2018
+5200950900,Warrnambool,NULL,URGs Application - Successful - FC2018/10927,23/08/2018
+5206350850,Warrnambool,NULL,URGs Application - Successful - FC2018/10929,23/08/2018
+9333380200,Portland,NULL,URGs Application - Successful - FC2018/10933,23/08/2018
+743740250,Hamilton,NULL,URGs Application - Successful - FC2018/11069,28/08/2018
+1040241350,Penshurst,431.96,URGs Application - Successful - FC2018/11086,28/08/2018
+140750850,Balmoral,650,URGs Application - Successful - FC2018/11442,4/09/2018
+9333380950,Portland,NULL,URGs Application - Successful - FC2018/11452,4/09/2018
+544130250,Dunkeld,527.02,URGs Application - Successful,12/09/2018
+5205160100,Dennington,500,URGs Application - Successful,12/09/2018
+3609710500,Mortlake,650,URGs Application - Successful,12/09/2018
+1040890900,Penshurst,383.68,URGs Application - Successful,12/09/2018
+3610921700,Mortlake,239.02,URGs Application - Successful - FC2018/12208,26/09/2018
+3008370350,Cobden,NULL,URGs Application - Successful - FC2018/12211,26/09/2018
+9330611100,Portland,NULL,URGs Application - Successful - FC2018/12214,26/09/2018
+5206900450,Warrnambool,NULL,URGs Application - Successful - FC2018/12216,26/09/2018
+9132182450,Heywood,NULL,URGs Application - Successful - FC2018/12218,26/09/2018
+5200550200,Warrnambool,NULL,URGs Application - Successful - FC2018/12220,26/09/2018
+9331845700,Portland,NULL,URGs Application - Successful - FC2018/12399,2/10/2018
+240130700,Casterton,NULL,URGs Application - Successful - FC2018/12400,2/10/2018
+5204840320,Dennington,NULL,URGs Application - Successful - FC2018/12751,9/10/2018
+2209300700,Camperdown,NULL,URGs Application - Successful - FC2018/12753,9/10/2018
+5205912200,Warrnambool,NULL,URGs Application - Successful - FC2018/12755,9/10/2018
+5210430600,Warrnambool,650,URGs Application - Successful,9/10/2018
+8107670725,Carpendeit,NULL,URGs Application - Successful - FC2018/12757,9/10/2018
+9231310750,Port Fairy,NULL,URGs Application - Successful - FC2018/12759,9/10/2018
+9333852050,Portland,NULL,URGs Application - Successful - FC2018/12760,9/10/2018
+3601300550,Mortlake,650,URGs Application - Successful fc2018/13114,18/10/2018
+5200420870,Warrnambool,80.53,URGs Application - Successful FC2018/13115,18/10/2018
+5206940180,Warrnambool,650,URGs Application - Successful FC2018/13116,18/10/2018
+5211060900,Warrnambool,255.23,URGs Application - Successful FC2018/13118,18/10/2018
+2203850200,Camperdown,293.92,URGs Application - Successful FC2018/13303,23/10/2018
+740401750,Hamilton,608.61,URGs Application - Successful FC2018/13305,23/10/2018
+3004660050,Cobden,NULL,URGs Application - Successful - FC2018/13588,30/10/2018
+5002040850,Timboon,NULL,URGs Application - Successful - FC2018/13590,30/10/2018
+3607941700,Mortlake,650,URGs Application - Successful - FC2018/13887,7/11/2018
+5003530300,Timboon,NULL,URGs Application - Successful - FC2018/14164,13/11/2018
+5206151100,Warrnambool,NULL,URGs Application - Successful - FC2018/14166,13/11/2018
+942440550,Merino,650,URGs Application - Successful - FC2018/14695,27/11/2018
+5202973200,Warrnambool,650,URGs Application - Successful -FC2018/14698,27/11/2018
+442873300,Coleraine,204.53,URGs Application - Successful,5/12/2018
+4804584000,Terang,615.11,URGs Application - Successful - FC2018/15534,12/12/2018
+5206151720,Warrnambool,381.82,URGs Application - Successful - FC2018/15537,12/12/2018
+9232902740,Port Fairy,650,URGs Application - Successful - FC2018/15538,12/12/2018
+743815650,Hamilton,650,URGs Application - Successful - FC2018/15728,18/12/2018
+9132320200,Heywood,545,URGs Application - Successful - FC2018/15730,18/12/2018
+241957550,Casterton,650,URGs Application - Successful FC2018/16064,27/12/2018
+2201431800,Camperdown,650,URGs Application - Successful FC2018/16066,27/12/2018
+5204491250,Warrnambool,650,URGs Application - Successful FC2018/16067,27/12/2018
+5214070500,Warrnambool,650,URGs Application - Successful FC2018/16069,27/12/2018
+9330641300,Portland,NULL,URGs Application - Successful,10/01/2019
+3610451800,Mortlake,650,URGs Application - Successful,10/01/2019
+5202973200,Warrnambool,NULL,URGs Application - Successful,10/01/2019
+443532000,Coleraine,NULL,URGs Application - Successful,10/01/2019
+2206191000,Camperdown,650,URGs Application - Successful,10/01/2019
+444731350,Coleraine,543.92,URGs Application - Successful,10/01/2019
+2201140500,Camperdown,NULL,URGs Application - Successful,10/01/2019
+9332661500,Portland,650,URGs Application - Successful FC2019/00433,16/01/2019
+9331910300,Portland,388.63,URGs Application - Successful - FC2019/00435,16/01/2019
+9330650600,Portland,428.33,URGs Application - Successful - FC2019/00436,16/01/2019
+244600400,Casterton,415.19,URGs Application - Successful - FC2019/00440,16/01/2019
+442952750,Coleraine,493.97,URGs Application - Successful,17/01/2019
+444730800,Coleraine,650,URGs Application - Successful,17/01/2019
+740860350,Hamilton,NULL,URGs Application - Successful,17/01/2019
+742231950,Hamilton,587.3,URGs Application - Successful,17/01/2019
+8307070150,South Purrumbete,650,URGs Application - Successful,17/01/2019
+9231881300,Port Fairy,NULL,URGs Application - Successful,17/01/2019
+9330130500,Portland,NULL,URGs Application - Successful,17/01/2019
+741620900,Hamilton,650,URGs Application - Successful - FC2019/00642,22/01/2019
+744270100,Hamilton,429.02,URGs Application - Successful - FC2019/00644,22/01/2019
+2202980250,Camperdown,650,URGs Application - Successful - FC2019/00645,22/01/2019
+3600922725,Mortlake,650,URGs Application - Successful - FC2019/00648,22/01/2019
+4809920150,Terang,NULL,URGs Application - Successful - FC2019/00650,22/01/2019
+5205560250,Warrnambool,408.36,URGs Application - Successful - FC2019/00652,22/01/2019
+9231040050,Port Fairy,524.97,URGs Application - Successful - FC2019/00653,22/01/2019
+5207000550,Warrnambool,NULL,URGs Application - Successful,30/01/2019
+3609710950,Mortlake,296.57,URGs Application - Successful,30/01/2019
+9130480450,Heywood,650,URGs Application - Successful - FC2019/01242,6/02/2019
+5210732250,Warrnambool,444.25,URGs Application - Successful - FC2019/01245,6/02/2019
+5206171950,Warrnambool,650,URGs Application - Successful - FC2019/01254,6/02/2019
+5204381500,Warrnambool,360.47,URGs Application - Successful - FC2019/01256,6/02/2019
+5203301850,Warrnambool,521.6,URGs Application - Successful - FC2019/01500,12/02/2019
+5208140900,Dennington,433.95,URGs Application - Successful - FC2019/01502,12/02/2019
+9330347550,Portland,587.88,URGs Application - Successful - FC2019/01504,12/02/2019
+740410100,Hamilton,650,URGs Application - Successful FC2019/01742,18/02/2019
+2400910250,Boorcan,584.57,URGs Application - Successful - FC2019/01743,18/02/2019
+5206171000,Warrnambool,647.31,URGs Application - Successful FC2019/01746,18/02/2019
+9132321300,Heywood,650,URGs Application - Successful FC2019/0149,18/02/2019
+9333600850,Portland,377.1,URGs Application - Successful FC2019/01751,18/02/2019
+5205031250,Warrnambool,155.14,URGs Application - Successful FC2019/01990,25/02/2019
+3610920500,Mortlake,650,URGs Application - Successful FC2019/01991,25/02/2019
+5207275550,Warrnambool,650,URGs Application - Successful FC2019/01994,25/02/2019
+9232902750,Port Fairy,635.75,URGs Application - Successful FC2019/01996,25/02/2019
+9331302440,Portland,NULL,URGs Application - Successful,6/03/2019
+3609710450,Mortlake,NULL,URGs Application - Successful,6/03/2019
+4810003200,Terang,NULL,URGs Application - Successful,6/03/2019
+9331302440,Portland,650,URGs Application - Successful,6/03/2019
+9330250100,Portland,650,URGs Application - Successful,6/03/2019
+544801100,Dunkeld,NULL,URGs Application - Successful,13/03/2019
+5200430400,Warrnambool,640.45,URGs Application - Successful,13/03/2019
+5204843400,Dennington,506.3,URGs Application - Successful,13/03/2019
+5208781450,Warrnambool,183.31,URGs Application - Successful,13/03/2019
+8103970150,Carpendeit,NULL,URGs Application - Successful,14/03/2019
+9330881900,Portland,650,URGs Application - Successful,14/03/2019
+9332410050,Portland,NULL,URGs Application - Successful,14/03/2019
+741450100,Hamilton,NULL,URGs Application - Successful,14/03/2019
+742071150,Hamilton,NULL,URGs Application - Successful,14/03/2019
+9333741450,Portland,NULL,URGs Application - Successful,14/03/2019
+5210730200,Warrnambool,524.46,URGs Application - Successful - FC2019/02910,25/03/2019
+440530750,Coleraine,611.23,URGs Application - Successful - FC2019/03264,3/04/2019
+3605360550,Mortlake,527.56,URGs Application - Successful - FC2019/03265,3/04/2019
+5204981650,Warrnambool,407.07,URGs Application - Successful - FC2019/03267,3/04/2019
+5211282200,Warrnambool,596.58,URGs Application - Successful - FC2019/03270,3/04/2019
+9131260350,Heywood,499.41,URGs Application - Successful - FC2019/03275,3/04/2019
+743680400,Hamilton,573,URGs Application - Successful - FC2019/03460,9/04/2019
+740773700,Hamilton,NULL,URGs Application - Successful - FC2019/03707,16/04/2019
+5202140450,Warrnambool,NULL,URGs Application - Successful - FC2019/03708,16/04/2019
+5206314540,Warrnambool,NULL,URGs Application - Successful,24/04/2019
+5206314540,Warrnambool,650,URGs Application - Successful FC2019/03837,24/04/2019
+744292500,Hamilton,NULL,URGs Application - Successful - FC2019/03840,24/04/2019
+5207276300,Warrnambool,454.75,URGs Application - Successful - FC2019/03841,24/04/2019
+5207720400,Warrnambool,NULL,URGs Application - Successful - FC2019/03861,24/04/2019
+9330660350,Portland,650,URGs Application - Successful FC2019/03883,24/04/2019
+244090700,Casterton,650,URGs Application - Successful - FC2019/04213,6/05/2019
+3002310550,Cobden,NULL,URGs Application - Successful - FC2019/04215,6/05/2019
+742295700,Hamilton,NULL,URGs Application - Successful - FC2019/04216,6/05/2019
+5205160600,Dennington,335.52,URGs Application - Successful - FC2019/04217,6/05/2019
+5211270150,Warrnambool,NULL,URGs Application - Successful - FC2019/04226,7/05/2019
+9331752050,Bolwarra,NULL,URGs Application - Successful - FC2019/04227,7/05/2019
+440650900,Coleraine,456.78,URGs Application - Successful - FC2019/04555,14/05/2019
+743740050,Hamilton,409.32,URGs Application - Successful - FC2019/04559,14/05/2019
+9332210650,Portland,650,URGs Application - Successful - FC2019/04560,14/05/2019
+741941600,Hamilton,NULL,URGs Application - Successful - FC2019/04956,23/05/2019
+4808490400,Terang,190.42,URGs Application - Successful FC2019/04976,23/05/2019
+3411120600,Lismore,650,URGs Application - Successful FC2019/04978,23/05/2019
+1040240900,Penshurst,316.82,URGs Application - Successful FC2019/04981,23/05/2019
+9233590600,Port Fairy,650,URGs Application - Successful - FC2019/05151,28/05/2019
+742220400,Hamilton,NULL,URGs Application - Successful - FC2019/05677,13/06/2019
+9333370100,Portland,NULL,URGs Application - Successful,13/06/2019
+743192000,Hamilton,600.83,URGs Application - Successful FC2019/05899,19/06/2019
+9333673150,Portland,150,URGs Application - Successful FC2019/05900,19/06/2019
+5206750750,Warrnambool,650,URGs Application - Successful - FC2019/06110,25/06/2019
+5200080775,Warrnambool,NULL,URGs Application - Successful - FC2019/06367,1/07/2019
+441460050,Coleraine,NULL,URGs Application - Successful - FC2019/06368,1/07/2019
+940780050,Merino,650,URGs Application - Successful - FC2019/06626,9/07/2019
+5208801410,Warrnambool,NULL,URGs Application - Successful - FC2019/06627,9/07/2019
+9131152100,Heywood,NULL,URGs Application - Successful - FC2019/06631,9/07/2019
+9132182350,Heywood,NULL,URGs Application - Successful,9/07/2019
+2604260050,Caramut,NULL,URGs Application - Successful - FC2019/06671,9/07/2019
+5213190110,Warrnambool,NULL,URGs Application - Successful - FC2019/06887,16/07/2019
+5204350200,Warrnambool,650,URGs Application - Successful - FC2019/06889,16/07/2019
+5205430600,Warrnambool,501.95,URGs Application - Successful,25/07/2019
+9130670300,Heywood,650,URGs Application - Successful,25/07/2019
+5202891000,Warrnambool,650,URGs Application - Successful FC2019/07391,25/07/2019
+3806630900,Noorat,650,URGs Application - Successful,25/07/2019
+5200501150,Warrnambool,443.93,URGs Application - Successful,25/07/2019
+743991200,Hamilton,NULL,URGs Application - Successful - FC2019/07749,1/08/2019
+2011402700,Allansford,650,URGs Application - Successful,1/08/2019
+5210430550,Warrnambool,473.98,URGs Application - Successful,1/08/2019
+742561700,Hamilton,650,URGs Application - Successful,1/08/2019
+9231650250,Port Fairy,390.65,URGs Application - Successful - FC2019/07981,6/08/2019
+241957650,Casterton,650,URGs Application - Successful - FC2019/07982,6/08/2019
+3609471100,Mortlake,650,URGs Application - Successful - FC2019/07983,6/08/2019
+640230350,Glenthompson,NULL,URGs Application - Successful - FC2019/08329,13/08/2019
+740312000,Hamilton,NULL,URGs Application - Successful - FC2019/08331,13/08/2019
+5206151040,Warrnambool,NULL,URGs Application - Successful - FC2019/08332,13/08/2019
+5206151500,Warrnambool,NULL,URGs Application - Successful - FC2019/08333,13/08/2019
+744243800,Hamilton,NULL,URGs Application - Successful - FC2019/08334,13/08/2019
+3010380950,Cobden,NULL,URGs Application - Successful - FC2019/08336,13/08/2019
+5205370350,Warrnambool,650,URGs Application - Successful - FC2019/08338,13/08/2019
+743160450,Hamilton,650,URGs Application - Successful,21/08/2019
+741522450,Hamilton,248.2,URGs Application - Successful,21/08/2019
+5205223700,Warrnambool,524.2,URGs Application - Successful - FC2019/08836,21/08/2019
+5205420350,Warrnambool,650,URGs Application - Successful - FC2019/08843,21/08/2019
+740970600,Hamilton,341.42,URGs Application - Successful D2019/048716,26/08/2019
+3009310750,Cobden,NULL,URGs Application - Successful,5/09/2019
+9332120400,Portland,NULL,URGs Application - Successful,5/09/2019
+3805760050,Glenormiston,NULL,URGs Application - Successful,5/09/2019
+5207902550,Warrnambool,NULL,URGs Application - Successful,5/09/2019
+5210734450,Warrnambool,650,URGs Application - Successful,5/09/2019
+5202140600,Warrnambool,524.43,URGs Application - Successful FC2019/09643,9/09/2019
+8107670100,Carpendeit,438.12,URGs Application - Successful FC2019/09646,9/09/2019
+5201220250,Warrnambool,649.18,URGs Application - Successful FC2019/09647,9/09/2019
+742490100,Hamilton,158.6,URGs Application - Successful,19/09/2019
+3605802150,Mortlake,459.03,URGs Application - Successful,19/09/2019
+5204310200,Warrnambool,391.64,URGs Application - Successful,19/09/2019
+242991900,Casterton,650,URGs Application - Successful,19/09/2019
+9333602050,Portland,650,URGs Application - Successful FC2019/10156,24/09/2019
+9332371650,Portland,352.92,URGs Application - Successful FC2019/10160,24/09/2019
+9130430250,Heywood,352.23,URGs Application - Successful FC2019/10162,24/09/2019
+5207290150,Warrnambool,571.66,URGs Application - Successful FC2019/10163,24/09/2019
+3806630650,Noorat,292.76,URGs Application - Successful FC2019/10165,24/09/2019
+241570300,Casterton,650,URGs Application - Successful FC2019/10168,24/09/2019
+5200441550,Warrnambool,608.14,URGs Application - Successful - FC2019/10394,2/10/2019
+5204170350,Warrnambool,515.65,URGs Application - Successful - FC2019/10395,2/10/2019
+9331302440,Portland,650,URGs Application - Successful - FC2019/10396,2/10/2019
+9332410650,Portland,626.71,URGs Application - Successful - FC2019/10398,2/10/2019
+9332515150,Portland,260.69,URGs Application - Successful - FC2019/10399,2/10/2019
+440653450,Coleraine,570.05,URGs Application - Successful - FC2019/11109,21/10/2019
+740970800,Hamilton,650,URGs Application - Successful - FC2019/11110,21/10/2019
+742272050,Hamilton,627.49,URGs Application - Successful - FC2019/1112,21/10/2019
+9332681200,Portland,539.16,URGs Application - Successful - FC2019/11114,21/10/2019
+3605360010,Mortlake,365.84,URGs Application - Successful FC2019/11344,25/10/2019
+2401780400,Boorcan,650,URGs Application - Successful FC2019/11345,25/10/2019
+5208802370,Warrnambool,650,URGs Application - Successful FC2019/11346,25/10/2019
+5206952500,Warrnambool,650,URGs Application - Successful FC2019/11551,31/10/2019
+5206952500,Warrnambool,NULL,URGs Application - Successful,31/10/2019
+5205160100,Dennington,650,URGs Application - Successful FC2019/11552,31/10/2019
+5202704050,Warrnambool,446.88,URGs Application - Successful FC2019/11557,31/10/2019
+743750800,Hamilton,650,URGs Application - Successful - FC2019/11877,6/11/2019
+9331340600,Portland,377.97,URGs Application - Successful,14/11/2019
+743192100,Hamilton,650,URGs Application - Successful,20/11/2019
+5208810100,Warrnambool,251.96,URGs Application - Successful - FC2019/12447,20/11/2019
+5002990400,Timboon,650,URGs Application - Successful - FC2019/12449,20/11/2019
+744080550,Hamilton,NULL,URGs Application - Successful,21/11/2019
+3202510350,Koroit,585,URGs Application - Successful - FC2019/12676,27/11/2019
+9331320950,Portland,650,URGs Application - Successful - FC2019/12677,27/11/2019
+2206190150,Camperdown,192.43,URGs Application - Successful - FC2019/12678,27/11/2019
+2204610150,Camperdown,302.61,URGs Application - Successful - FC2019/12680,27/11/2019
+2202011550,Camperdown,650,URGs Application - Successful - FC2019/12681,27/11/2019
+2200491500,Camperdown,650,URGs Application - Successful - FC2019/12683,27/11/2019
+5202140800,Warrnambool,650,URGs Application - Successful - FC2020/00136,8/01/2020
+5212392350,Warrnambool,650,URGs Application - Successful - FC2020/00139,8/01/2020
+9313230750,Portland,650,URGs Application - Successful - FC2020/00141,8/01/2020
+3209700250,Koroit,650,URGs Application - Successful - FC2020/00146,8/01/2020
+5002990750,Timboon,311.04,URGs Application - Successful - FC2020/00364,14/01/2020
+743192050,Hamilton,650,URGs Application - Successful - FC2020/00367,14/01/2020
+9330250100,Portland,650,URGs Application - Successful - FC2020/00381,15/01/2020
+740960100,Hamilton,650,URGs Application - Successful,22/01/2020
+9231310700,Port Fairy,112.34,URGs Application - Successful,22/01/2020
+743540400,Hamilton,650,URGs Application - Successful,30/01/2020
+4807021400,Terang,NULL,URGs Application - Successful,30/01/2020
+5206940500,Warrnambool,NULL,URGs Application - Successful,30/01/2020
+5204320400,Warrnambool,650,URGs Application - Successful,30/01/2020
+5205977460,Warrnambool,NULL,URGs Application - Successful,6/02/2020
+9130480450,Heywood,NULL,URGs Application - Successful,6/02/2020
+8107670400,Carpendeit,650,URGs Application - Successful,19/02/2020
+5200021546,Warrnambool,528.39,URGs Application - Successful,20/02/2020
+5206171950,Warrnambool,650,URGs Application - Successful,19/03/2020
+5204310350,Warrnambool,650,URGs Application - Successful,19/03/2020
+740401750,Hamilton,650,URGs Application - Successful,19/03/2020
+241510550,Casterton,616.77,URGs Application - Successful FC2020/03108,24/03/2020
+2202981300,Camperdown,650,URGs Application - Successful FC2020/03111,24/03/2020
+2402730650,Naroghid,650,URGs Application - Successful FC2020/03112,24/03/2020
+8301560525,Bostocks Creek,NULL,URGs Application - Successful,31/03/2020
+5205681050,Warrnambool,549.66,URGs Application - Successful FC2020/03379,31/03/2020
+9332702600,Portland,437.83,URGs Application - Successful - FC2020/04253,28/04/2020
+9231310700,Port Fairy,179.08,URGs Application - Successful - FC2020/04304,29/04/2020
+442872850,Coleraine,463.43,URGs Application - Successful,6/05/2020
+5208805220,Dennington,254.94,URGs Application - Successful,6/05/2020
+5210730200,Warrnambool,424.44,URGs Application - Successful,6/05/2020
+9330760150,Portland,518.72,URGs Application - Successful,6/05/2020
+9331000600,Portland,631.76,URGs Application - Successful,6/05/2020
+9331301800,Portland,650,URGs Application - Successful,6/05/2020
+644210050,Glenthompson,250.73,URGs Application - Successful,13/05/2020
+5210291950,Warrnambool,NULL,URGs Application - Successful,13/05/2020
+9333001850,Portland,NULL,URGs Application - Successful,13/05/2020
+5205090100,Warrnambool,623.03,URGs Application - Successful,20/05/2020
+5206151100,Warrnambool,416.45,URGs Application - Successful,20/05/2020
+743680400,Hamilton,404.22,URGs Application - Successful,27/05/2020
+744670600,Hamilton,325.25,URGs Application - Successful,27/05/2020
+841881650,Macarthur,488.44,URGs Application - Successful,27/05/2020
+942020250,Merino,650,URGs Application - Successful,27/05/2020
+5208381050,Warrnambool,650,URGs Application - Successful,27/05/2020
+5210732250,Warrnambool,650,URGs Application - Successful,27/05/2020
+3609320530,Mortlake,283.17,URGs Application - Successful,27/05/2020
+5211065000,Warrnambool,650,URGs Application - Successful,27/05/2020
+4804584200,Terang,650,URGs Application - Successful,27/05/2020
+9333740750,Portland,NULL,URGs Application - Successful,28/05/2020
+9333740750,Portland,650,URGs Application - Successful - FC2020/05519,2/06/2020
+244600400,Casterton,233.83,URGs Application - Successful,3/06/2020
+9333672550,Portland,439.13,URGs Application - Successful,3/06/2020
+9330220950,Portland,650,URGs Application - Successful,3/06/2020
+5214220550,Warrnambool,224.99,URGs Application - Successful,3/06/2020
+5213190050,Warrnambool,650,URGs Application - Successful,3/06/2020
+5208804370,Warrnambool,598.61,URGs Application - Successful,3/06/2020
+5206940180,Warrnambool,638.3,URGs Application - Successful,3/06/2020
+2604261400,Caramut,219.76,URGs Application - Successful,4/06/2020
+4800623200,Terang,191.34,URGs Application - Successful,4/06/2020
+5202701100,Warrnambool,650,URGs Application - Successful,4/06/2020
+5200860200,Warrnambool,650,URGs Application - Successful,4/06/2020
+5000521250,Timboon,650,URGs Application - Successful,4/06/2020
+5204491000,Warrnambool,253.75,URGs Application - Successful,11/06/2020
+9333261750,Portland,NULL,URGs Application - Successful,11/06/2020
+9132320950,Heywood,650,URGs Application - Successful,11/06/2020
+5206952600,Warrnambool,650,URGs Application - Successful,11/06/2020
+744711050,Hamilton,468.17,URGs Application - Successful - FC2020/06253,16/06/2020
+942440350,Merino,650,URGs Application - Successful - FC2020/06254,16/06/2020
+2206190150,Camperdown,376.16,URGs Application - Successful - FC2020/06257,16/06/2020
+2206191050,Camperdown,505.87,URGs Application - Successful - FC2020/06258,16/06/2020
+3411120600,Lismore,512.53,URGs Application - Successful - FC2020/06260,16/06/2020
+4810303150,Terang,650,URGs Application - Successful - FC2020/06261,16/06/2020
+8307070150,South Purrumbete,650,URGs Application - Successful - FC2020/06262,16/06/2020
+9233730550,Port Fairy,650,URGs Application - Successful - FC2020/06263,16/06/2020
+9331301740,Portland,362.5,URGs Application - Successful - FC2020/06265,16/06/2020
+5206156460,Warrnambool,352.32,URGs Application - Successful - FC2020/06503,23/06/2020
+740670700,Hamilton,650,URGs Application - Successful - FC2020/06505,23/06/2020
+5200662300,Warrnambool,650,URGs Application - Successful - FC2020/06507,23/06/2020
+5205160600,Dennington,185.05,URGs Application - Successful - FC2020/06511,23/06/2020
+5210734150,Warrnambool,650,URGs Application - Successful - FC2020/06513,23/06/2020
+9333380950,Portland,650,URGs Application - Successful - FC2020/06515,23/06/2020
+3002740100,Cobden,650,URGs Application - Successful - FC2020/07044,30/06/2020
+3002310550,Cobden,313.6,URGs Application - Successful - FC2020/07046,30/06/2020
+3607941700,Mortlake,650,URGs Application - Successful - FC2020/07049,30/06/2020
+5202050050,Warrnambool,459.69,URGs Application - Successful - FC2020/07050,30/06/2020
+5211290150,Warrnambool,650,URGs Application - Successful FC2020/07326,7/07/2020
+5209010500,Warrnambool,650,URGs Application - Successful FC2020/07327,7/07/2020
+742220500,Hamilton,650,URGs Application - Successful - FC2020/07508,13/07/2020
+742564000,Hamilton,650,URGs Application - Successful - FC2020/08350,4/08/2020
+9231310700,Port Fairy,218.71,URGs Application - Successful - FC2020/08361,4/08/2020
+9332790600,Portland,650,URGs Application - Successful - D2020/048920,16/09/2020
+240130750,Casterton,481.08,URGs Application - Successful - D2020/048942,16/09/2020
+5205160600,Dennington,253.66,URGs Application - Successful - FC2020/11379,7/10/2020
+3202524700,Koroit,650,URGs Application - Successful - FC2020/11380,7/10/2020
+5207425620,Warrnambool,589.01,URGs Application - Successful - FC2020/11381,7/10/2020
+5208805220,Dennington,395.06,URGs Application - Successful - FC2020/11853,19/10/2020
+5208060150,Warrnambool,525.09,URGs Application - Successful - FC2020/12474,3/11/2020
+741280500,Hamilton,650,URGs Application - Successful - FC2020/12479,3/11/2020
+5207473250,Warrnambool,650,URGs Application - Successful,17/11/2020
+5204310450,Warrnambool,650,URGs Application - Successful FC2020/13075,17/11/2020
+5210732950,Warrnambool,209.67,URGs Application - Successful FC2020/13077,17/11/2020
+2204941200,Camperdown,650,URGs Application - Successful FC2020/13426,25/11/2020
+5209850050,Warrnambool,650,URGs Application - Successful FC2020/13428,25/11/2020
+9330451250,Portland,407.3,URGs Application - Successful FC2020/13435,25/11/2020
+243920300,Casterton,650,URGs Application - Successful - FC2020/13846,4/12/2020
+3007350950,Cobden,650,URGs Application - Successful (FC2020/13849),4/12/2020
+5206150880,Warrnambool,650,URGs Application - Successful (FC2020/13855),4/12/2020
+5200420865,Warrnambool,408.85,URGs Application - Successful (FC2020/13860),4/12/2020
+5200300750,Warrnambool,582.87,URGs Application - Successful (FC2020/13861),4/12/2020
+743601650,Hamilton,650,URGs Application - Successful FC2020/14350,18/12/2020
+3607320400,Mortlake,650,URGs Application - Successful - FC2020/14356,18/12/2020
+9132320150,Heywood,650,URGs Application - Successful - FC2020/14366,18/12/2020
+8107670725,Carpendeit,650,URGs Application - Successful - FC2020/14373,18/12/2020
+5206010200,Warrnambool,178.93,URGs Application - Successful FC2020/14419,21/12/2020
+142080700,Balmoral,650,URGs Application - Successful - FC2021/00127,8/01/2021
+2208450200,Camperdown,41.11,URGs Application - Successful - F2021/00128,8/01/2021
+3201000200,Koroit,362.39,URGs Application - Successful - FC2021/00131,8/01/2021
+5204170300,Warrnambool,349.92,URGs Application - Successful - FC2021/00132,8/01/2021
+244070700,Casterton,650,URGs Application - Successful - FC2021/00195,12/01/2021
+3607321450,Mortlake,170.35,URGs Application - Successful,29/01/2021
+5207423100,Warrnambool,650,URGs Application - Successful - FC2021/00739,1/02/2021
+5200710300,Warrnambool,422.22,URGs Application - Successful - FC2021/01080,9/02/2021
+740341200,Hamilton,465.01,URGs Application - Successful - FC2021/01363,16/02/2021
+5204961200,Warrnambool,319.95,URGs Application - Successful FC2021/01419,17/02/2021
+5202682775,Warrnambool,650,URGs Application - Successful - FC2021/01852,2/03/2021
+2006810450,Allansford,650,URGs Application - Successful - FC2021/01857,2/03/2021
+5202682775,Warrnambool,NULL,URGs Application - Successful,2/03/2021
+9330347550,Portland,650,URGs Application - Successful - FC2021/01861,2/03/2021
+4804584000,Terang,650,URGs Application - Successful - FC2021/02690,26/03/2021
+5207265700,Warrnambool,556.66,URGs Application - Successful - FC2021/02794,31/03/2021
+9231310700,Port Fairy,139.87,URGs Application - Successful - FC2021/02795,31/03/2021
+9132322800,Heywood,650,URGs Application - Successful - FC2021/02797,31/03/2021
+5214062600,Warrnambool,650,URGs Application - Successful - FC2021/03097,9/04/2021
+742970700,Hamilton,285.15,URGs Application - Successful - FC2021/03098,9/04/2021
+9233560400,Port Fairy,NULL,URGs Application - Successful,12/04/2021
+9233560400,Port Fairy,578.59,URGs Application - Successful - FC2021/03155,12/04/2021
+3600922250,Mortlake,650,URGs Application - Successful - FC2021/03177,12/04/2021
+5209210950,Warrnambool,333.87,URGs Application - Successful - FC2021/03217,13/04/2021
+5214220550,Warrnambool,425.01,URGs Application - Successful - FC2021/03614,23/04/2021
+9330341000,Portland,305.99,URGs Application - Successful - FC2021/03620,23/04/2021
+9133182100,Heywood,529.94,URGs Application - Successful - FC2021/03797,28/04/2021
+2208450200,Camperdown,268.93,URGs Application - Successful - FC2021/03995,4/05/2021
+5200441550,Warrnambool,41.86,URGs Application - Successful - FC2021/04188,7/05/2021
+2208450200,Camperdown,381.07,URGs Application - Successful - FC2021/04353,12/05/2021
+243090400,Casterton,258.59,URGs Application - Successful - FC2021/04654,21/05/2021
+9331303340,Portland,597.59,URGs Application - Successful - FC2021/04658,21/05/2021
+5210734300,Warrnambool,560.48,URGs Application - Successful - FC2021/04659,21/05/2021
+5200660850,Warrnambool,650,URGs Application - Successful - FC2021/04661,21/05/2021
+5208080400,Warrnambool,569.52,URGs Application - Successful - FC2021/04784,24/05/2021
+9230190150,Port Fairy,367.68,URGs Application - Successful - FC2021/05280,8/06/2021
+5207265700,Warrnambool,93.34,URGs Application - Successful - FC2021/05284,8/06/2021
+5203900950,Warrnambool,284.55,URGs Application - Successful - FC20221/05695,18/06/2021
+2205120700,Camperdown,650,URGs Application - Successful - FC2021/05702,18/06/2021
+5204491250,Warrnambool,650,URGs Application - Successful - FC2021/06113,29/06/2021
+3009522600,Cobden,650,URGs Application - Successful - FC2021/06968,19/07/2021
+3610921825,Mortlake,650,URGs Application - Successful - FC2021/06979,20/07/2021
+442870200,Coleraine,650,URGs Application - Successful - FC2021/07332,28/07/2021
+3610921825,Mortlake,208.88,URGS Application - Successful - FC2021/07333,28/07/2021
+5206171000,Warrnambool,459.21,URGs Application - Successful - FC2021/07337,28/07/2021
+9330881900,Portland,650,URGs Application - Successful - FC2021/07422,30/07/2021
+5207210100,Warrnambool,521.83,URGs Application - Successful - FC2021/07630,4/08/2021
+2202980250,Camperdown,650,URGs Application - Successful - FC2021/07856,10/08/2021
+9331910300,Portland,196.29,URGs Application - Successful - FC2021/07857,10/08/2021
+9232902740,Port Fairy,376.09,URGs Application - Successful - FC2021/07859,10/08/2021
+4806910800,Terang,650,URGs Application - Successful - FC2021/07878,10/08/2021
+5204961200,Warrnambool,179.68,URGs Application - Successful - FC2021/08175,17/08/2021
+9330300600,Portland,650,URGs Application - Successful - FC2021/08178,17/08/2021
+9330733050,Portland,650,URGs Application - Successful - FC2021/08182,17/08/2021
+9331440750,Portland,650,URGs Application - Successful - FC2021/08203,18/08/2021
+444735100,Coleraine,335.69,URGs Application - Successful - FC2021/08424,25/08/2021
+9333091350,Portland,47.69,URGs Application - Successful - FC2021/08425,25/08/2021
+5204961200,Warrnambool,150.37,URGs Application - Successful - FC2021/08428,25/08/2021
+4810003400,Terang,650,URGs Application - Successful - FC2021/08437,25/08/2021
+5206670300,Warrnambool,650,URGs Application - Successful - FC2021/08799,3/09/2021
+5207901800,Warrnambool,224.99,URGs Application - Successful - FC2021/08959,8/09/2021
+9330500250,Portland,427.68,URGs Application - Successful - FC2021/08960,8/09/2021
+5200080900,Warrnambool,482.71,URGs Application - Successful - FC2021/09346,20/09/2021
+244072250,Casterton,180.72,URGs Application - Successful - FC2021/09352,20/09/2021
+942840100,Merino,216.29,URGs Application - Successful - FC2021/09359,20/09/2021
+9332742550,Portland,246.23,URGs Application - Successful - FC2021/09360,20/09/2021
+5207210100,Warrnambool,128.17,URGs Application - Successful - FC2021/09411,21/09/2021
+9232902740,Port Fairy,162.2,URGs Application - Successful - FC2021/09415,21/09/2021
+743560850,Hamilton,574.99,URGs Application - Successful - FC2021/09593 - $574.99,28/09/2021
+743740250,Hamilton,650,URGs Application - Successful - FC2021/09595,28/09/2021
+244072250,Casterton,175.18,URGs Application - Successful - FC2021/09596 - $175.18,28/09/2021
+2202981500,Camperdown,650,URGs Application - Successful - FC2021/09658,30/09/2021
+5202050350,Warrnambool,408.81,URGs Application - Successful FC2021/09664 - $408.81,30/09/2021
+5202704100,Warrnambool,642.11,URGs Application - Successful - FC2021/09666 - $642.11,30/09/2021
+5207901800,Warrnambool,38.42,URGs Application - Successful - FC2021/09667 - $38.42,30/09/2021
+5210430600,Warrnambool,90.7,URGs Application - Successful - FC2021/09672 - $90.70,30/09/2021
+9332410050,Portland,220.99,URGs Application - Successful - FC2021/09675 - $220.99,30/09/2021
+241511090,Casterton,568.63,URGs Application - Successful - FC2021/09947 $568.63,6/10/2021
+9330732950,Portland,479.13,URGs Application - Successful - FC2021/09955 $479.13,6/10/2021
+9330500250,Portland,150.19,URGs Application - Successful - FC2021/09959 $150.19,6/10/2021
+2200060400,Camperdown,650,URGs Application - Successful - FC2021/09970 $650.00,6/10/2021
+2206190200,Camperdown,410.15,URGs Application - Successful - FC2021/10010 $410.15,7/10/2021
+3605801450,Mortlake,650,URGs Application - Successful - FC2021/10020 $650.00,7/10/2021
+4810003200,Terang,650,URGs Application - Successful - FC2021/10024 $650.00,7/10/2021
+741620900,Hamilton,650,URGs Application - Successful - FC2021/10263 $650,14/10/2021
+741941600,Hamilton,650,URGs Application - Successful - FC2021/10270 $650.00,14/10/2021
+5200080795,Warrnambool,179.21,URGs Application - Successful - FC2021/10275 $179.21,14/10/2021
+5204460350,Warrnambool,650,URGs Application - Successful - FC2021/10283 $650.00,14/10/2021
+5007050100,Timboon,650,URGs Application - Successful - FC2021/10446 $650.00,19/10/2021
+5202702750,Warrnambool,111.86,URGs Application - Successful - FC2021/10456 $111.86,19/10/2021
+9333100200,Portland,650,URGs Application - Successful - FC2021/10458 $650.00,19/10/2021
+9333741300,Portland,650,URGs Application - Successful - FC2021/10460 $650.00,19/10/2021
+243900350,Casterton,456.98,URGs Application - Successful - FC2021/10672,26/10/2021
+5211270150,Warrnambool,650,URGs Application - Successful - FC2021/10897,2/11/2021
+5211550050,Dennington,470.25,URGs Application - Successful FC2021/10896,2/11/2021
+2206190200,Camperdown,239.85,URGs Application - Successful - FC2021/10900 $239.85,2/11/2021
+5207551800,Warrnambool,463.21,URGs Application - Successful - FC2021/10919 $463.21,2/11/2021
+9231871650,Port Fairy,242.43,URGs Application - Successful - FC2021/10924 $242.43,2/11/2021
+9032170550,Dartmoor,650,URGs Application - Successful - FC2021/10925 $650.00,2/11/2021
+5205977740,Warrnambool,163.97,URGs Application - Successful - FC2021/10929 $163.97,2/11/2021
+5202702750,Warrnambool,22.1,URGs Application - Successful - FC2021/10933 $22.10,2/11/2021
+9332371600,Portland,650,URGs Application - Successful - FC2021/10934 $650.00,2/11/2021
+5208803947,Warrnambool,562.7,URGs Application - Successful - FC2021/11130 $562.70,9/11/2021
+744243800,Hamilton,650,URGs Application - Successful - FC2021/11132 $650.00,9/11/2021
+5202704050,Warrnambool,319.67,URGs Application - Successful - FC2021/11357,15/11/2021
+9230285000,Port Fairy,64.39,URGs Application - Successful - FC2021/11363,15/11/2021
+8305500150,Cobden,650,URGs Application - Successful -FC2021/11366,15/11/2021
+5205977740,Warrnambool,425.63,URGs Application - Successful - FC2021/11368,15/11/2021
+5213190110,Warrnambool,379.8,URGs Application - Successful - FC2021/11377 $379.80,16/11/2021
+3609711350,Mortlake,618,URGs Application - Successful - FC2021/11392 $618.00,16/11/2021
+741452750,Hamilton,650,URGs Application - Successful - FC2021/11394 $650.00,16/11/2021
+742540600,Hamilton,169.91,URGS Application Successful Letter FC2021/11752,25/11/2021
+5210733700,Warrnambool,161.03,URGS Application Successful Letter FC2021/11769,25/11/2021
+4810250600,Terang,163.4,URGS Application Successful Letter FC2021/11770,25/11/2021
+9132450650,Heywood,650,URGS Application Successful Letter FC2021/11775,25/11/2021
+5207271400,Warrnambool,629.98,URGS Application Successful Letter D2021/061065,8/12/2021
+5210733700,Warrnambool,185.66,URGS Application Successful Letter FC2021/12337 $185.66,10/12/2021
+5200441550,Warrnambool,127.24,URGS Application Successful Letter FC2021/12340 $127.24,10/12/2021
+9330347950,Portland,650,URGS Application Successful Letter FC2021/12344 $650.00,10/12/2021
+9331340500,Portland,650,URGS Application Successful Letter FC2021/12514 $650.00,15/12/2021
+5200080795,Warrnambool,26.6,URGS Application Successful Letter FC2021/12517 $26.60,15/12/2021
+3609320500,Mortlake,173.78,URGS Application Successful Letter FC2021/12518 $173.78,15/12/2021
+3600922725,Mortlake,650,URGS Application Successful Letter FC2021/12519 $650.00,15/12/2021
+3002793850,Cobden,650,URGS Application Successful Letter FC2021/12614 $650.00,16/12/2021
+5200311600,Warrnambool,518.41,URGS Application Successful Letter - FC2021/12814,22/12/2021
+243170750,Casterton,394.8,URGS Application Successful Letter FC2022/00121 $394.80,10/01/2022
+9333100750,Portland,81.53,URGS Application Successful Letter D2022/00122,10/01/2022
+5211730400,Dennington,173.19,URGS Application Successful Letter FC2022/00123,10/01/2022
+5211450330,Warrnambool,202,URGS Application Successful Letter FC2022/00126,10/01/2022
+5206020300,Warrnambool,167.22,URGS Application Successful Letter FC2022/00127,10/01/2022
+5206020300,Warrnambool,167.22,URGS Application Successful Letter FC2022/00128 $167.22,10/01/2022
+5204320100,Warrnambool,50.95,URGS Application Successful Letter FC2022/00134,10/01/2022
+9330461050,Portland,175.24,URGS Application Successful Letter - FC2022/00135,10/01/2022
+5209490750,Warrnambool,181.66,URGS Application Successful Letter - FC2022/00339,18/01/2022
+5211720450,Dennington,650,URGS Application Successful Letter - FC2022/00341,18/01/2022
+441961100,Coleraine,245.19,URGS Application Successful Letter - FC2022/00343,18/01/2022
+5209490750,Warrnambool,169.32,URGS Application Successful Letter FC2022/00666 $169.32,28/01/2022
+5202050050,Warrnambool,190.31,URGS Application Successful Letter FC2022/00668 $190.31,28/01/2022
+5208803947,Warrnambool,87.3,URGS Application Successful Letter - FC2022/00856,3/02/2022
+9331330100,Portland,630.92,URGS Application Successful Letter - FC2022/01114,9/02/2022
+243430200,Casterton,376.41,URGS Application Successful Letter - FC2022/01116,9/02/2022
+3411121650,Lismore,650,URGS Application Successful Letter FC2022/01236 650.00,14/02/2022
+5211050250,Warrnambool,650,URGS Application Successful Letter FC2022/01242 $650.00,14/02/2022
+4810250600,Terang,181.15,URGS Application Successful Letter - FC2022/01313,16/02/2022
+5200080795,Warrnambool,40.08,URGS Application Successful Letter FC2022/01325,16/02/2022
+5208804220,Warrnambool,650,URGS Application Successful Letter - FC2022/01329,16/02/2022
+9331910300,Portland,380.27,URGS Application Successful Letter - FC2022/01591,22/02/2022
+9332371100,Portland,650,URGS Application Successful Letter - FC2022/01634,23/02/2022
+3607540700,Mortlake,439.49,URGS Application Successful Letter FC2022/01639,23/02/2022
+5201380250,Warrnambool,173.67,URGS Application Successful Letter - FC2022/01787,1/03/2022
+9331301020,Portland,507.26,URGS Application Successful Letter - FC2022/01799,1/03/2022
+5200441550,Warrnambool,245.11,URGS Application Successful Letter - FC2022/01805,1/03/2022
+8107670350,South Purrumbete,650,URGS Application Successful Letter - FC2022/01806,1/03/2022
+5210734450,Warrnambool,436.38,URGS Application Successful Letter - FC2022/01810,1/03/2022
+242991850,Casterton,203.55,URGS Application Successful Letter - FC2022/02152,9/03/2022
+2006810450,Allansford,338.88,URGS Application Successful Letter - FC2022/02159,9/03/2022
+5211130150,Warrnambool,650,URGS Application Successful Letter - FC2022/02226,11/03/2022
+3605801850,Mortlake,377.47,URGS Application Successful Letter D2021/061065 - FC2022/02449,18/03/2022
+5202140650,Warrnambool,485.33,URGS Application Successful Letter - FC2022/02455,18/03/2022
+5202140800,Warrnambool,260.26,URGS Application Successful Letter - FC2022/02457,18/03/2022
+5203910800,Warrnambool,650,URGS Application Successful Letter - FC2022/02557,22/03/2022
+5203302050,Warrnambool,650,URGS Application Successful Letter - FC2022/02566,22/03/2022
+5205532000,Warrnambool,601.75,URGS Application Successful Letter - FC2022/02786,29/03/2022
+5204381250,Warrnambool,169.61,URGS Application Successful Letter - FC2022/02790,29/03/2022
+5206170850,Warrnambool,650,URGS Application Successful Letter - FC2022/02791,29/03/2022
+5207424050,Warrnambool,437.37,URGS Application Successful Letter - FC2022/02803,29/03/2022
+5207900750,Warrnambool,650,URGS Application Successful Letter - FC2022/02812,29/03/2022
+9330632400,Portland,650,URGS Application Successful Letter - FC2022/02845,30/03/2022
+5209180200,Warrnambool,565.1,URGS Application Successful Letter - FC2022/03169,8/04/2022
+5211050350,Warrnambool,392.69,URGS Application Successful Letter - FC2022/03173,8/04/2022
+5211730400,Dennington,291.28,URGS Application Successful Letter - FC2022/03174,8/04/2022
+9230285000,Port Fairy,22.84,URGS Application Successful Letter - FC2022/03177,8/04/2022
+9232982550,Port Fairy,136.14,URGS Application Successful Letter - FC2022/03179,8/04/2022
+743680050,Hamilton,162.72,URGS Application Successful Letter - FC2022/03316,12/04/2022
+743811900,Hamilton,468.45,URGS Application Successful Letter - FC2022/03317,12/04/2022
+2004500450,Allansford,517.09,URGS Application Successful Letter - FC2022/03321,12/04/2022
+3205451150,Koroit,126.1,URGS Application Successful Letter - FC2022/03335,13/04/2022
+5206020300,Warrnambool,177.47,URGS Application Successful Letter - FC2022/03336,13/04/2022
+5206951200,Warrnambool,650,URGS Application Successful Letter - FC2022/03337,13/04/2022
+5209260100,Warrnambool,468.76,URGS Application Successful Letter - FC2022/03338,13/04/2022
+5209260850,Warrnambool,650,URGS Application Successful Letter - FC2022/03342,13/04/2022
+5210041400,Warrnambool,192.91,URGS Application Successful Letter - FC2022/03348,13/04/2022
+5210732550,Warrnambool,650,URGS Application Successful Letter - FC2022/03350,13/04/2022
+5210734650,Warrnambool,490.19,URGS Application Successful Letter - FC2022/03362,13/04/2022
+9330250100,Portland,650,URGS Application Successful Letter - FC2022/03365,13/04/2022
+5211065995,Warrnambool,490.08,URGS Application Successful Letter - FC2022/03374,13/04/2022
+5206171950,Warrnambool,650,URGS Application Successful Letter - FC2022/03398 - $650.00,13/04/2022
+9231310700,Port Fairy,239.33,URGS Application Successful Letter FC2022/03400 - $239.33,13/04/2022
+2207170050,Camperdown,650,URGS Application Successful Letter - FC2022/03746,26/04/2022
+2201013650,Camperdown,650,URGS Application Successful Letter - FC2022/03771,27/04/2022
+2202980800,Camperdown,650,URGS Application Successful Letter - FC2022/03775,27/04/2022
+5200680600,Warrnambool,158.4,URGS Application Successful Letter FC2022/03814,27/04/2022
+4810250600,Terang,171.1,URGS Application Successful Letter FC2022/03816,27/04/2022
+743815750,Hamilton,650,URGS Application Successful Letter - FC2022/03875,29/04/2022
+3207310400,Koroit,650,URGS Application Successful Letter - FC2022/03876,29/04/2022
+5208330150,Warrnambool,268.27,URGS Application Successful Letter - FC2022/03902,29/04/2022
+3605800800,Mortlake,650,URGS Application Successful Letter - FC2022/03917,2/05/2022
+5204310650,Warrnambool,650,URGS Application Successful Letter - FC2022/03922,2/05/2022
+5211450330,Warrnambool,210.24,URGS Application Successful Letter - FC2022/03931,2/05/2022
+740141340,Hamilton,350.84,URGS Application Successful Letter - FC2022/03987,3/05/2022
+740970700,Hamilton,261.15,URGS Application Successful Letter - FC2022/03988,3/05/2022
+741890850,Hamilton,650,URGS Application Successful Letter - FC2022/03995,3/05/2022
+742320800,Hamilton,650,URGS Application Successful Letter - FC2022/03998,3/05/2022
+5201041800,Warrnambool,471.57,URGS Application Successful Letter - FC2022/04000,3/05/2022
+4804584800,Terang,376.4,URGS Application Successful Letter - FC2022/04002,3/05/2022
+740970800,Hamilton,650,URGS Application Successful Letter - FC2022/04003,3/05/2022
+5206172300,Warrnambool,367.35,URGS Application Successful Letter - FC2022/04004,3/05/2022
+5209022200,Dennington,NULL,URGS Application Successful Letter,3/05/2022
+5209022200,Dennington,368.96,URGS Application Successful Letter - FC2022/04078,4/05/2022
+5209260100,Warrnambool,181.24,URGS Application Successful Letter - FC2022/04080,4/05/2022
+9330510600,Portland,207.17,URGS Application Successful Letter - FC2022/04184,6/05/2022
+741040850,Hamilton,650,URGS Application Successful Letter - FC2022/04331,10/05/2022
+744630850,Hamilton,650,URGS Application Successful Letter - FC2022/04341,10/05/2022
+2202981300,Camperdown,650,URGS Application Successful Letter - FC2022/04344,10/05/2022
+5200950500,Warrnambool,650,URGS Application Successful Letter - FC2022/04346,10/05/2022
+5200952700,Warrnambool,271.61,URGS Application Successful Letter - FC2022/04347,10/05/2022
+5202140700,Warrnambool,650,URGS Application Successful Letter - FC2022/04360,10/05/2022
+740401750,Hamilton,650,URGS Application Successful Letter - FC2022/04387,11/05/2022
+5209650050,Warrnambool,524,URGS Application Successful Letter - FC2022/04390,11/05/2022
+3603401275,Mortlake,621.16,URGS Application Successful Letter - FC2022/04391,11/05/2022
+5203601950,Warrnambool,555.59,URGS Application Successful Letter - FC2022/04398,11/05/2022
+5211050950,Warrnambool,650,URGS Application Successful Letter - FC2022/04417,11/05/2022
+5204170350,Warrnambool,650,URGS Application Successful Letter - FC2022/04420,11/05/2022
+9231311200,Port Fairy,650,URGS Application Successful Letter - FC2022/04628,17/05/2022
+2211170250,Camperdown,221.11,URGS Application Successful Letter - FC2022/04637,17/05/2022
+5201220100,Warrnambool,507.88,URGS Application Successful Letter - FC2022/04694,18/05/2022
+5204960850,Warrnambool,650,URGS Application Successful Letter - FC2022/04697,18/05/2022
+5210731600,Warrnambool,281.56,URGS Application Successful Letter - FC2022/04790,20/05/2022
+9330732950,Portland,170.87,URGS Application Successful Letter - FC2022/04814,23/05/2022
+9331850400,Portland,602.2,URGS Application Successful Letter - FC2022/04820,23/05/2022
+5207740600,Warrnambool,427.86,URGS Application Successful Letter - FC2022/04821,23/05/2022
+3600980400,Mortlake,264.9,URGS Application Successful Letter - FC2022/04962,25/05/2022
+5202140300,Warrnambool,595.07,URGS Application Successful Letter - FC2022/04968,25/05/2022
+5203903050,Warrnambool,137.77,URGS Application Successful Letter - FC2022/05053,26/05/2022
+740970200,Hamilton,650,URGS Application Successful Letter- FC2022/05426,3/06/2022
+5206830100,Warrnambool,208.34,URGS Application Successful Letter - FC2022/05431,3/06/2022
+5209490650,Warrnambool,539.65,URGS Application Successful Letter - FC2022/05432,3/06/2022
+9230040600,Port Fairy,249.89,URGS Application Successful Letter - FC2022/05434,3/06/2022
+9330660350,Portland,439.95,URGS Application Successful Letter - FC2022/05487,6/06/2022
+9333631300,Portland,262,URGS Application Successful Letter - FC2022/05490,6/06/2022
+9333740200,Portland,560.01,URGS Application Successful Letter - FC2022/05491,6/06/2022
+9232960400,Port Fairy,650,URGS Application Successful Letter - FC2022/05498,6/06/2022
+5200680600,Warrnambool,118.57,URGS Application Successful Letter - FC2022/05596,7/06/2022
+5200441550,Warrnambool,200.44,URGS Application Successful Letter - FC2022/05599,7/06/2022
+5200110700,Warrnambool,339.41,URGS Application Successful Letter - FC2022/05603,7/06/2022
+440530750,Coleraine,650,URGS Application Successful Letter - FC2022/05607,7/06/2022
+5210731850,Warrnambool,153.2,URGS Application Successful Letter (FC2022/05946) $153.20,17/06/2022
+5206151400,Warrnambool,254.76,URGS Application Successful Letter (FC2022/05949) - $254.76,17/06/2022
+744540200,Hamilton,650,URGS Application Successful Letter - FC2022/05979,20/06/2022
+5204280550,Warrnambool,650,URGS Application Successful Letter - FC2022/05980,20/06/2022
+5205370350,Warrnambool,650,URGS Application Successful Letter - FC2022/05984,20/06/2022
+5210732250,Warrnambool,650,URGS Application Successful Letter - FC2022/05987,20/06/2022
+9330760250,Portland,650,URGS Application Successful Letter - FC2022/05993,20/06/2022
+9331000600,Portland,650,URGS Application Successful Letter - FC2022/05995,20/06/2022
+9331971250,Portland,650,URGS Application Successful Letter - FC2022/06004,20/06/2022
+743192000,Hamilton,650,URGS Application Successful Letter - FC2022/06007,20/06/2022
+5206175150,Warrnambool,234.43,URGS Application Successful Letter - FC2022/06106,22/06/2022
+5206171000,Warrnambool,190.79,URGS Application Successful Letter - FC2022/06108,22/06/2022
+742221000,Hamilton,292.03,URGS Application Successful Letter - FC2022/06347,28/06/2022
+2202981450,Camperdown,125.94,URGS Application Successful Letter - FC2022/06349,28/06/2022
+9331980100,Portland,120.08,URGS Application Successful Letter - FC2022/06371,28/06/2022
+2204860550,Camperdown,194.95,URGS Application Successful Letter - FC2022/06373,28/06/2022
+2205190200,Camperdown,282.84,URGS Application Successful Letter - FC2022/06382,28/06/2022
+3202112200,Koroit,497.08,URGS Application Successful Letter - FC2022/06385,28/06/2022
+5203481550,Warrnambool,650,URGS Application Successful Letter - FC2022/06459,29/06/2022
+5206020300,Warrnambool,148.04,URGS Application Successful Letter - FC2022/06470,29/06/2022
+5208802370,Warrnambool,650,URGS Application Successful Letter - FC2022/06474,29/06/2022
+9131152250,Heywood,650,URGS Application Successful Letter - FC2022/06476,29/06/2022
+9232903760,Port Fairy,217.81,URGS Application Successful Letter - FC2022/06477,29/06/2022
+5200430100,Warrnambool,204.1,URGS Application Successful Letter - FC2022/06824,6/07/2022
+5206151500,Warrnambool,650,URGS Application Successful Letter - FC2022/06825,6/07/2022
+5208802940,Warrnambool,650,URGS Application Successful Letter - FC2022/06835,6/07/2022
+5210731250,Warrnambool,650,URGS Application Successful Letter - FC2022/06837,6/07/2022
+5212250550,Warrnambool,347.58,URGS Application Successful Letter - FC2022/06846,6/07/2022
+9231311700,Port Fairy,444.18,URGS Application Successful Letter - FC2022/06999,8/07/2022
+9312911850,Bolwarra,650,URGS Application Successful Letter - FC2022/07001,8/07/2022
+9330882950,Portland,650,URGS Application Successful Letter - FC2022/07003,8/07/2022
+9331481650,Portland,455.51,URGS Application Successful Letter - FC2022/07005,8/07/2022
+9330630300,Portland,650,URGS Application Successful Letter - FC2022/07102,11/07/2022
+742220200,Hamilton,229.06,URGS Application Successful Letter - FC2022/07108,11/07/2022
+5200300300,Warrnambool,598.12,URGS Application Successful Letter FC2022/07543,21/07/2022
+5203903300,Warrnambool,443.15,URGS Application Successful Letter FC2022/07555,21/07/2022
+440450150,Coleraine,650,URGS Application Successful Letter FC2022/07561,21/07/2022
+2209141300,Camperdown,623.36,URGS Application Successful Letter FC2022/07563,21/07/2022
+9333100850,Portland,483.48,URGS Application Successful Letter FC2022/07565,21/07/2022
+240032050,Casterton,650,URGS Application Successful Letter FC2022/07574,21/07/2022
+742223150,Hamilton,329.33,URGS Application Successful Letter FC2022/07577,21/07/2022
+742372200,Hamilton,597.56,URGS Application Successful Letter FC2022/07579,21/07/2022
+9330650600,Portland,650,URGS Application Successful Letter - FC2022/07731,26/07/2022
+444730800,Coleraine,650,URGS Application Successful Letter FC2022/07734,26/07/2022
+242152450,Casterton,181.02,URGS Application Successful Letter FC2022/07736,26/07/2022
+442952750,Coleraine,650,URGS Application Successful Letter - FC2022/07739,26/07/2022
+3002794000,Cobden,650,URGS Application Successful Letter,26/07/2022
+5208381050,Warrnambool,650,URGS Application Successful Letter - FC2022/07983,1/08/2022
+742223150,Hamilton,229.33,URGS Application Successful Letter - FC2022/07986,1/08/2022
+9333631150,Portland,555.78,URGS Application Successful Letter - FC2022/07989,1/08/2022
+9332412050,Portland,621.7,URGS Application Successful Letter - FC2022/07991,1/08/2022
+9331320950,Portland,650,URGS Application Successful Letter - FC2022/07990,1/08/2022
+741450100,Hamilton,220.09,URGS Application Successful Letter - FC2022/07998,1/08/2022
+4810250600,Terang,134.35,URGS Application Successful Letter - FC2022/07996,1/08/2022
+2202981450,Camperdown,138.85,URGS Application Successful Letter - FC2022/08374,8/08/2022
+9332411000,Portland,650,URGS Application Successful Letter - FC2022/08714,15/08/2022
+242991100,Casterton,650,URGS Application Successful Letter - FC2022/08717,15/08/2022
+9331141200,Portland North,650,URGS Application Successful Letter - FC2022/08718,15/08/2022
+9331990450,Portland,NULL,URGS Application Successful Letter,15/08/2022
+9331050050,Portland,490.53,URGS Application Successful Letter - FC2022/08724,15/08/2022
+9330300700,Portland,614.1,URGS Application Successful Letter - FC2022/08725,15/08/2022
+9330540700,Portland,NULL,URGS Application Successful Letter,16/08/2022
+9330060300,Portland,650,URGS Application Successful Letter - FC2022/08751,16/08/2022
+5208780550,Warrnambool,434.05,URGS Application Successful Letter - FC2022/08757,16/08/2022
+5207275500,Warrnambool,618.86,URGS Application Successful Letter - FC2022/08763,16/08/2022
+744710750,Hamilton,650,URGS Application Successful Letter - FC2022/08766,16/08/2022
+741011300,Hamilton,243.92,URGS Application Successful Letter - FC 2022/08767,16/08/2022
+1044651500,Penshurst,650,URGS Application Successful Letter - FC2022/08770,16/08/2022
+5206151720,Warrnambool,650,URGS Application Successful Letter - FC2022/08772,16/08/2022
+9131260300,Heywood,403.47,URGS Application Successful Letter - FC2022/08775,16/08/2022
+3605802050,Mortlake,65.62,URGS Application Successful Letter - FC2022/08806,17/08/2022
+5244990360,Warrnambool,650,URGS Application Successful Letter - FC2022/09052,23/08/2022
+5200441550,Warrnambool,77.21,URGS Application Successful Letter - FC2022/09053,23/08/2022
+9132322700,Heywood,650,URGS Application Successful Letter - FC2022/09056,23/08/2022
+9331050050,Portland,159.47,URGS Application Successful Letter - FC2022/09057,23/08/2022
+4804781750,Terang,612.75,URGS Application Successful Letter - FC2022/09058,23/08/2022
+744080550,Hamilton,650,URGS Application Successful Letter - FC2022/09300,29/08/2022
+5206950300,Warrnambool,650,URGS Application Successful Letter - FC2022/09302 $650.00,29/08/2022
+5214070500,Warrnambool,650,URGS Application Successful Letter - FC2022/09306,29/08/2022
+244090200,Casterton,650,URGS Application Successful Letter - FC2022/09310,29/08/2022
+9230700900,Port Fairy,650,URGS Application Successful Letter - FC2022/09313,29/08/2022
+743750800,Hamilton,410.72,URGS Application Successful Letter - FC2022/09320,29/08/2022
+942440350,Merino,650,URGS Application Successful Letter - FC2022/09327,29/08/2022
+5208810600,Warrnambool,650,URGS Application Successful Letter - FC2022/09328,29/08/2022
+9331502650,Portland,NULL,URGS Application Successful Letter,29/08/2022
+9331502650,Portland,NULL,URGS Application Successful Letter,29/08/2022
+741011300,Hamilton,250.37,URGS Application Successful Letter - FC2022/09650,6/09/2022
+5210734150,Warrnambool,NULL,URGS Application Successful Letter,6/09/2022
+9332411200,Portland,489.75,URGS Application Successful Letter - FC2022/09656,6/09/2022
+5210041400,Warrnambool,457.09,URGS Application Successful Letter - FC2022/09659,6/09/2022
+241510550,Casterton,650,URGS Application Successful Letter FC2022/09662,6/09/2022
+5208805220,Dennington,245.71,URGS Application Successful Letter - FC2022/09663,6/09/2022
+9333240050,Portland,NULL,URGS Application Successful Letter,12/09/2022
+2601170200,Caramut,NULL,URGS Application Successful Letter,12/09/2022
+740772450,Hamilton,286.91,URGS Application Successful Letter - FC2022/09922,12/09/2022
+5206940180,Warrnambool,NULL,URGS Application Successful Letter,12/09/2022
+743690700,Hamilton,650,URGS Application Successful Letter - FC2022/09925,12/09/2022
+9332512050,Portland,149.92,URGS Application Successful Letter - FC2022/09926,12/09/2022
+5200680600,Warrnambool,141.54,URGS Application Successful Letter - FC2022/10198,20/09/2022
+442922350,Coleraine,309.04,URGS Application Successful Letter - FC2022/10201,20/09/2022
+5211050900,Warrnambool,NULL,URGS Application Successful Letter,20/09/2022
+9333380950,Portland,650,URGS Application Successful Letter - FC2022/10205,20/09/2022
+9332681200,Portland,650,URGS Application Successful Letter - FC2022/10207,20/09/2022
+9331910300,Portland,73.44,URGS Application Successful Letter - FC2022/10208,20/09/2022
+5209160400,Warrnambool,533.24,URGS Application Successful Letter - FC2022/10210,20/09/2022
+9331980100,Portland,NULL,URGS Application Successful Letter,27/09/2022
+9331000200,Portland,NULL,URGS Application Successful Letter,27/09/2022
+5209771200,Warrnambool,NULL,URGS Application Successful Letter,27/09/2022
+4800623100,Terang,624.24,URGS Application Successful Letter - FC2022/10622,3/10/2022
+9331303580,Portland,650,URGS Application Successful Letter - FC2022/10623,3/10/2022
+9333630350,Portland,650,URGS Application Successful Letter - FC2022/10624,3/10/2022
+244090550,Casterton,182.17,URGS Application Successful Letter,10/10/2022
+5206020300,Warrnambool,NULL,URGS Application Successful Letter,10/10/2022
+444735100,Coleraine,314.31,URGS Application Successful Letter - FC2022/10918,10/10/2022
+1041440100,Penshurst,650,URGS Application Successful Letter - FC2022/10919,10/10/2022
+2202720525,Camperdown,211.81,URGS Application Successful Letter - FC2022/10920,10/10/2022
+240130800,Casterton,650,URGS Application Successful Letter,11/10/2022
+3200240500,Koroit,178.31,URGS Application Successful Letter - FC2022/11334,20/10/2022
+5207220150,Warrnambool,151.79,URGS Application Successful Letter - FC2022/11337,20/10/2022
+9332411050,Portland,418.82,URGS Application Successful Letter - FC2022/11347,20/10/2022
+9333340550,Portland,608.92,URGS Application Successful Letter - FC2022/11348,20/10/2022
+243830650,Casterton,484.25,URGS Application Successful Letter - FC2022/11349,20/10/2022
+5200951650,Warrnambool,417.9,URGS Application Successful Letter - FC2022/11351,20/10/2022
+741010200,Hamilton,NULL,URGS Application Successful Letter,25/10/2022
+9132320950,Heywood,NULL,URGS Application Successful Letter,25/10/2022
+941830100,Merino,NULL,URGS Application Successful Letter,25/10/2022
+9333675450,Portland,650,URGS Application Successful Letter - FC2022/11780,1/11/2022
+5203903600,Warrnambool,650,URGS Application Successful Letter - FC2022/11781,1/11/2022
+5208803480,Warrnambool,598.04,URGS Application Successful Letter - FC2022/11782,1/11/2022
+9330451250,Portland,283.41,URGS Application Successful Letter - FC2022/11783,1/11/2022
+4804581000,Terang,412.09,URGS Application Successful Letter - FC2022/11784,1/11/2022
+2608890550,Caramut,NULL,URGS Application Successful Letter,1/11/2022
+3202112200,Koroit,152.92,URGS Application Successful Letter - FC2022/11832,2/11/2022
+440650700,Coleraine,NULL,URGS Application Successful Letter,2/11/2022
+5203801600,Warrnambool,650,URGS Application Successful Letter - FC2022/11839,2/11/2022
+5209010850,Warrnambool,176.27,URGS Application Successful Letter - FC2022/11841,2/11/2022
+5207340850,Warrnambool,650,URGS Application Successful Letter - FC2022/11844,2/11/2022
+9333631250,Portland,NULL,URGS Application Successful Letter,2/11/2022
+241957650,Casterton,650,URGS Application Successful Letter - FC2022/12190,9/11/2022
+2011402700,Allansford,294.26,URGS Application Successful Letter - FC2022/12195,9/11/2022
+5203800900,Warrnambool,650,URGS Application Successful Letter - FC2022/12198,9/11/2022
+3409430300,Lismore,NULL,URGS Application Successful Letter,14/11/2022
+9332790600,Portland,650,URGS Application Successful Letter - FC2022/12821,23/11/2022
+442951950,Coleraine,190.55,URGS Application Successful Letter - FC2022/12823,23/11/2022
+742277550,Hamilton,356.28,URGS Application Successful Letter - FC2022/12825,23/11/2022
+9333651200,Portland,NULL,URGS Application Successful Letter,30/11/2022
+9330220400,Portland,NULL,URGS Application Successful Letter,30/11/2022
+5206350100,Warrnambool,NULL,URGS Application Successful Letter,30/11/2022
+5200467150,Warrnambool,650,URGS Application Successful Letter,6/12/2022
+5209010500,Warrnambool,NULL,URGS Application Successful Letter,14/12/2022
+5200083950,Warrnambool,NULL,URGS Application Successful Letter,14/12/2022
+3607321275,Mortlake,NULL,URGS Application Successful Letter,14/12/2022
+1040242950,Penshurst,NULL,URGS Application Successful Letter,14/12/2022
+740312450,Hamilton,NULL,URGS Application Successful Letter,14/12/2022
+740312450,Hamilton,NULL,URGS Application Successful Letter,14/12/2022
+9331980100,Portland,NULL,URGS Application Successful Letter,20/12/2022
+9330461050,Portland,142.86,URGS Application Successful Letter - FC2022/13961,20/12/2022
+9233030050,Port Fairy,NULL,URGS Application Successful Letter,20/12/2022
+9030151560,Dartmoor,NULL,URGS Application Successful Letter,20/12/2022
+244090550,Casterton,187.89,URGS Application Successful Letter,20/12/2022
+5201130150,Warrnambool,NULL,URGS Application Successful Letter,5/01/2023
+241955000,Casterton,NULL,URGS Application Successful Letter,5/01/2023
+440653800,Coleraine,187.15,URGS Application Successful Letter - FC2023/00465,16/01/2023
+5200590550,Dennington,396.65,URGS Application Successful Letter - FC2023/00470,16/01/2023
+713170080,Hamilton,435.71,URGS Application Successful Letter - FC2023/00904,30/01/2023
+2408180400,Camperdown,136.07,URGS Application Successful Letter FC2023/00909,30/01/2023
+9330451250,Portland,186.77,URGS Application Successful Letter - FC2023/00910,30/01/2023
+5206151400,Warrnambool,395.24,URGS Application Successful Letter FC2023/01369,8/02/2023
+2206739900,Camperdown,272.66,URGS Application Successful Letter - FC2023/01373,8/02/2023
+740960100,Hamilton,546.82,URGS Application Successful Letter - FC2023/01715,15/02/2023
+243060800,Casterton,176.52,URGS Application Successful Letter - FC2023/01717,15/02/2023
+5200530500,Warrnambool,531.23,URGS Application Successful Letter FC2023/01721,15/02/2023
+3600921800,Mortlake,635.33,URGS Application Successful Letter FC2023/01722,15/02/2023
+9331845550,Portland,650,URGS Application Successful Letter FC2023/01724,15/02/2023
+5212700955,Warrnambool,NULL,URGS Application Successful Letter,15/02/2023
+5206580450,Warrnambool,NULL,URGS Application Successful Letter,15/02/2023
+9333742050,Portland,448.63,URGS Application Successful Letter FC2023/01736,15/02/2023
+9330451250,Portland,173.64,URGS Application Successful Letter FC2023/01739,15/02/2023
+5209010850,Warrnambool,336.53,URGS Application Successful Letter,15/02/2023
+5200590550,Dennington,253.35,URGS Application Successful Letter FC2023/01744,15/02/2023
+4805900500,Terang,650,URGS Application Successful Letter FC2023/01750,15/02/2023
+2202981450,Camperdown,144.39,URGS Application Successful Letter FC2023/01754,15/02/2023
+4800625950,Terang,146.1,URGS Application Successful Letter,15/02/2023
+2202982100,Camperdown,633.13,URGS Application Successful Letter FC2023/01760,15/02/2023
+741890050,Hamilton,650,URGS Application Successful Letter,15/02/2023
+2011405500,Allansford,150.58,URGS Application Successful Letter FC2023/01769,15/02/2023
+3610452400,Mortlake,476.43,URGS Application Successful Letter FC2023/02031,22/02/2023
+5202050050,Warrnambool,492.52,URGS Application Successful Letter - FC2023/02105,22/02/2023
+2408180400,Camperdown,379.1,URGS Application Successful Letter FC2023/02388,28/02/2023
+9333741950,Portland,208.46,URGS Application Successful Letter FC2023/02390,28/02/2023
+5207551800,Warrnambool,189.79,URGS Application Successful Letter,6/03/2023
+9331300420,Portland,NULL,URGS Application Successful Letter,6/03/2023
+740960100,Hamilton,103.18,URGS Application Successful Letter,6/03/2023
+742410850,Hamilton,NULL,URGS Application Successful Letter,6/03/2023
+4800625950,Terang,75.9,URGS Application Successful Letter,6/03/2023
+5203620900,Warrnambool,NULL,URGS Application Successful Letter,6/03/2023
+5203920300,Warrnambool,650,URGS Application Successful Letter,6/03/2023
+3007350200,Cobden,NULL,URGS Application Successful Letter,6/03/2023
+5214220550,Warrnambool,NULL,URGS Application Successful Letter,6/03/2023
+742220200,Hamilton,362.79,URGS Application Successful Letter,6/03/2023
+3205880650,Koroit,100.15,URGS Application Successful Letter FC2023/03095,16/03/2023
+742410850,Hamilton,176.89,URGS Application Successful Letter - FC2023/03098,16/03/2023
+2206733150,Camperdown,200.3,URGS Application Successful Letter - FC2023/03100,16/03/2023
+9330461050,Portland,36.73,URGS Application Successful Letter - FC2023/03124,16/03/2023
+5202682775,Warrnambool,650,URGS Application Successful Letter - FC2023/03126,16/03/2023
+713170080,Hamilton,214.29,URGS Application Successful Letter - FC2023/03127,16/03/2023
+3406320400,Derrinallum,NULL,URGS Application Successful Letter,21/03/2023
+5202702750,Warrnambool,NULL,URGS Application Successful Letter,27/03/2023
+440650850,Coleraine,NULL,URGS Application Successful Letter,27/03/2023
+4610750200,Simpson,NULL,URGS Application Successful Letter,27/03/2023
+2011404690,Allansford,227.89,URGS Application Successful Letter - FC2023/04019,3/04/2023
+2206730200,Camperdown,284.47,URGS Application Successful Letter FC2023/04021,3/04/2023
+2209141250,Camperdown,406.57,URGS Application Successful Letter FC2023/04023,3/04/2023
+5206081550,Warrnambool,650,URGS Application Successful Letter FC2023/04028,3/04/2023
+5205481700,Warrnambool,650,URGS Application Successful Letter - FC2023/04029,3/04/2023
+5209581100,Warrnambool,185.33,URGS Application Successful Letter - FC2023/04031,3/04/2023
+5202140750,Warrnambool,461.09,URGS Application Successful Letter - FC2023/04371,12/04/2023
+5205560400,Warrnambool,650,URGS Application Successful Letter FC2023/04374,12/04/2023
+5207473950,Warrnambool,650,URGS Application Successful Letter FC2023/04375,12/04/2023
+444731350,Coleraine,644.17,URGS Application Successful Letter FC2023/04377,12/04/2023
+2011405500,Allansford,300.13,URGS Application Successful Letter FC2023/04563,17/04/2023
+5210971050,Warrnambool,336.55,URGS Application Successful Letter FC2023/04565,17/04/2023
+9331980100,Portland,147.44,URGS Application Successful Letter FC2023/04567,17/04/2023
+9333470200,Portland,513.02,URGS Application Successful Letter - FC2023/04571,17/04/2023
+9333630300,Portland,219.63,URGS Application Successful Letter - FC2023/04572,17/04/2023
+243060800,Casterton,NULL,URGS Application Successful Letter,27/04/2023
+9033830700,Dartmoor,112.42,URGS Application Successful Letter FC2023/05189,2/05/2023
+9333740700,Portland,NULL,URGS Application Successful Letter,2/05/2023
+5209010850,Warrnambool,NULL,URGS Application Successful Letter,10/05/2023
+9331980100,Portland,NULL,URGS Application Successful Letter,17/05/2023
+4800625950,Terang,174.22,URGS Application Successful Letter FC2023/06085,17/05/2023
+5206174400,Warrnambool,NULL,URGS Application Successful Letter,17/05/2023
+5202702750,Warrnambool,NULL,URGS Application Successful Letter,17/05/2023
+5202870400,Warrnambool,NULL,URGS Application Successful Letter,17/05/2023
+5202682200,Warrnambool,NULL,URGS Application Successful Letter,17/05/2023
+242152450,Casterton,NULL,URGS Application Successful Letter,17/05/2023
+741600900,Hamilton,309.23,URGS Application Successful Letter - FC2023/06111,18/05/2023
+740310150,Hamilton,378.54,URGS Application Successful Letter - FC2023/06112,18/05/2023
+713170070,Hamilton,123.21,URGS Application Successful Letter - FC2023/06122,18/05/2023
+2206733150,Camperdown,150.21,URGS Application Successful Letter FC2023/06265,22/05/2023
+5210733850,Warrnambool,223.27,URGS Application Successful Letter FC2023/06272,22/05/2023
+2209141250,Camperdown,212.39,URGS Application Successful Letter FC2023/06273,22/05/2023
+3607941300,Mortlake,200.9,URGS Application Successful Letter - FC2023/06634,29/05/2023
+3411180100,Derrinallum,650,URGS Application Successful Letter,6/06/2023
+5200660850,Warrnambool,549.1,URGS Application Successful Letter FC2023/07047,6/06/2023
+740310150,Hamilton,154.02,URGS Application Successful Letter FC2023/07049,6/06/2023
+742410850,Hamilton,138.36,URGS Application Successful Letter FC2023/07054,6/06/2023
+5214931100,Warrnambool,650,URGS Application Successful Letter FC2023/07055,6/06/2023
+2204941200,Camperdown,650,URGS Application Successful Letter,15/06/2023
+5200680500,Warrnambool,452.4,URGS Application Successful Letter - FC2023/07474,16/06/2023
+5212670225,Warrnambool,248.18,URGS Application Successful Letter FC2023/07472,16/06/2023
+5200083950,Warrnambool,45.36,URGS Application Successful Letter FC2023/07477,16/06/2023
+741041250,Hamilton,167.77,URGS Application Successful Letter -,16/06/2023
+2004500500,Allansford,650,URGS Application Successful Letter FC2023/07478,16/06/2023
+440650850,Coleraine,209.67,URGS Application Successful Letter - FC2023/07545,19/06/2023
+743203650,Hamilton,650,URGS Application Successful Letter - FC2023/07552,19/06/2023
+3604920200,Mortlake,430.2,URGS Application Successful Letter - FC2023/07553,19/06/2023
+3202522350,Koroit,215.37,URGS Application Successful Letter - FC2023/07554,19/06/2023
+2202480200,Camperdown,422.71,URGS Application Successful Letter - FC2023/07558,19/06/2023
+9331843900,Portland,650,URGS Application Successful Letter - FC2023/07561,19/06/2023
+5208801390,Warrnambool,565.11,URGS Application Successful Letter - FC2023/07568,19/06/2023
+3607321450,Mortlake,568.82,URGS Application Successful Letter - FC2023/07569,19/06/2023
+742970700,Hamilton,186.92,URGS Application Successful Letter - FC2023/07577,19/06/2023
+740200200,Hamilton,374.77,URGS Application Successful Letter - FC2023/07578,19/06/2023
+442872850,Coleraine,305,URGS Application Successful Letter - FC2023/07579,19/06/2023
+741111000,Hamilton,NULL,URGS Application Successful Letter,19/06/2023
+741420200,Hamilton,650,URGS Application Successful Letter FC2023/07885,26/06/2023
+3202524700,Koroit,650,URGS Application Successful Letter FC2023/07887,26/06/2023
+3609711350,Mortlake,NULL,URGS Application Successful Letter,26/06/2023
+5202971350,Warrnambool,466.28,URGS Application Successful Letter FC2023/07890,26/06/2023
+5203290400,Warrnambool,NULL,URGS Application Successful Letter,26/06/2023
+5209860100,Warrnambool,331.09,URGS Application Successful Letter FC2023/07893,26/06/2023
+9132182800,Heywood,NULL,URGS Application Successful Letter,26/06/2023
+9331930650,Portland,650,URGS Application Successful Letter FC2023/07899,26/06/2023
+140750050,Balmoral,650,URGS Application Successful Letter FC2023/07900,26/06/2023
+1043980175,Penshurst,300,URGS Application Successful Letter FC2023/07901,26/06/2023
+9332500400,Portland,559.71,URGS Application Successful Letter FC2023/07906,26/06/2023
+5204460550,Warrnambool,241.67,URGS Application Successful Letter FC2023/07907,26/06/2023
+140220200,Balmoral,NULL,URGS Application Successful Letter,3/07/2023
+442872850,Coleraine,192.46,URGS Application Successful Letter,3/07/2023
+741600900,Hamilton,NULL,URGS Application Successful Letter,3/07/2023
+2011405500,Allansford,NULL,URGS Application Successful Letter,4/07/2023
+9332430250,Portland,NULL,URGS Application Successful Letter,4/07/2023
+544370600,Dunkeld,650,URGS Application Successful Letter FC2023/08544,10/07/2023
+740200200,Hamilton,111.08,URGS Application Successful Letter - FC2023/08546,10/07/2023
+2204610100,Camperdown,340.6,URGS Application Successful Letter - FC2023/08552,10/07/2023
+742970700,Hamilton,330.92,URGS Application Successful Letter FC2023/08842,18/07/2023
+743815850,Hamilton,507.03,URGS Application Successful Letter FC2023/08844,18/07/2023
+743990900,Hamilton,416.57,URGS Application Successful Letter FC2023/08845,18/07/2023
+744380200,Hamilton,442.21,URGS Application Successful Letter FC2023/08848,18/07/2023
+5205860350,Warrnambool,473.51,URGS Application Successful Letter FC2023/08849,18/07/2023
+3007350200,Cobden,103,URGS Application Successful Letter FC2023/08851,18/07/2023
+5207525525,Warrnambool,650,URGS Application Successful Letter FC2023/08853,18/07/2023
+9332790100,Portland,NULL,URGS Application Successful Letter,27/07/2023
+9331971800,Portland,116.89,URGS Application Successful Letter,27/07/2023
+5205570350,Warrnambool,NULL,URGS Application Successful Letter,27/07/2023
+9333550900,Portland,NULL,URGS Application Successful Letter,27/07/2023
+441961100,Coleraine,NULL,URGS Application Successful Letter,27/07/2023
+743601650,Hamilton,650,URGS successful letter issued FC2023/09619,2/08/2023
+5210730200,Warrnambool,283.27,URGS Application Successful Letter - FC2023/09621,2/08/2023
+9332650100,Portland,292.92,URGS Application Successful Letter FC2023/09622,2/08/2023
+5207274100,Warrnambool,200,URGS Application Successful Letter - FC2023/09928,9/08/2023
+9332500400,Portland,55.36,URGS Application Successful Letter FC2023/09930,9/08/2023
+5211450330,Warrnambool,220.19,URGS Application Successful Letter - FC2023/09934,9/08/2023
+5200110250,Warrnambool,NULL,URGS Application Successful Letter,16/08/2023
+2004071000,Allansford,NULL,URGS Application Successful Letter,16/08/2023
+9231310800,Port Fairy,NULL,URGS Application Successful Letter,18/08/2023
+741600900,Hamilton,91.39,URGS Application Successful Letter FC2023/10813,28/08/2023
+742340600,Hamilton,NULL,URGS Application Successful Letter,4/09/2023
+3607941300,Mortlake,NULL,URGS Application Successful Letter,4/09/2023
+444510350,Coleraine,NULL,URGS Application Successful Letter,4/09/2023
+9333602050,Portland,NULL,URGS Application Successful Letter,4/09/2023
+9230040600,Port Fairy,NULL,URGS Application Successful Letter,4/09/2023
+9033830700,Dartmoor,NULL,URGS Application Successful Letter,4/09/2023
+4800625950,Terang,52.92,URGS Application Successful Letter,4/09/2023
+2206733150,Camperdown,NULL,URGS Application Successful Letter,4/09/2023
+741910125,Hamilton,NULL,URGS Application Successful Letter,4/09/2023
+841880200,Macarthur,NULL,URGS Application Successful Letter,4/09/2023
+9132000600,Heywood,NULL,URGS Application Successful Letter,4/09/2023
+5200083950,Warrnambool,NULL,URGS Application Successful Letter,4/09/2023
+2202981150,Camperdown,591.21,URGS Application Successful Letter - $591.21,4/09/2023
+743815850,Hamilton,142.97,URGS Application Successful Letter - FC2023/11519,11/09/2023
+5200230100,Warrnambool,142.65,URGS Application Successful Letter - FC2023/11520,11/09/2023
+5212670225,Warrnambool,115.74,URGS Application Successful Letter - FC2023/11521,11/09/2023
+9232983750,Port Fairy,295.49,URGS Application Successful Letter - FC2023/11522,11/09/2023
+2211380850,Camperdown,609.81,URGS Application Successful Letter - FC2023/11839,18/09/2023
+5205570350,Warrnambool,139.1,URGS Application Successful Letter FC2023/11840,18/09/2023
+5205860350,Warrnambool,176.49,URGS Application Successful Letter FC2023/11845,18/09/2023
+5206940180,Warrnambool,403.02,URGS Application Successful Letter FC2023/11847,18/09/2023
+5207742700,Warrnambool,126.05,URGS Application Successful Letter FC2023/11850,18/09/2023
+5211450330,Warrnambool,17.57,URGS Application Successful Letter FC2023/11853,18/09/2023
+9231310800,Port Fairy,216.74,URGS Application Successful Letter FC2023/11856,18/09/2023
+9330300750,Portland,30,URGS Application Successful Letter FC2023/11857,18/09/2023
+742540550,Hamilton,NULL,URGS Application Successful Letter,26/09/2023
+742540550,Hamilton,NULL,URGS Application Successful Letter,26/09/2023
+9330270100,Portland,NULL,URGS Application Successful Letter,26/09/2023
+5203601150,Warrnambool,NULL,URGS Application Successful Letter,26/09/2023
+3211330500,Koroit,NULL,URGS Application Successful Letter,26/09/2023
+2202981150,Camperdown,58.79,URGS Application Successful Letter - $58.79,26/09/2023
+741910125,Hamilton,NULL,URGS Application Successful Letter,26/09/2023
+740410100,Hamilton,650,URGS Application Successful Letter FC2023/12470,3/10/2023
+5215420010,Warrnambool,283.07,URGS Application Successful Letter FC2023/12471,3/10/2023
+9132182550,Heywood,650,URGS Application Successful Letter FC2023/12476,3/10/2023
+3202510800,Koroit,650,URGS Application Successful Letter,9/10/2023
+9231311300,Port Fairy,371.58,URGS Application Successful Letter,9/10/2023
+3211330500,Koroit,264.28,URGS Application Successful Letter,9/10/2023
+5207902650,Warrnambool,NULL,URGS Application Successful Letter,16/10/2023
+5210733700,Warrnambool,NULL,URGS Application Successful Letter,16/10/2023
+9230040600,Port Fairy,65.36,URGS Application Successful Letter FC2023/13416,23/10/2023
+2208151100,Camperdown,111.24,URGS successful letter issued FC2023/13887,31/10/2023
+5210733700,Warrnambool,117.34,URGS Application Successful Letter FC2023/13069,31/10/2023
+9330070900,Portland,206,URGS Application Successful Letter FC2023/13891,31/10/2023
+5209650050,Warrnambool,126,URGS Application Successful Letter FC2023/13893,31/10/2023
+940480050,Merino,650,URGS Application Successful Letter FC2023/13896,31/10/2023
+9333602050,Portland,64.36,URGS Application Successful Letter - FC2023/14259,7/11/2023
+2206733150,Camperdown,144.18,URGS Application Successful Letter - FC2023/14260,7/11/2023
+9330300750,Portland,NULL,URGS Application Successful Letter,14/11/2023
+9330270100,Portland,NULL,URGS Application Successful Letter,14/11/2023
+9330300750,Portland,NULL,URGS Application Successful Letter,14/11/2023
+5215420010,Warrnambool,NULL,URGS Application Successful Letter,14/11/2023
+9332702600,Portland,650,URGS Application Successful Letter FC2023/14957,21/11/2023
+5207276700,Warrnambool,650,URGS Application Successful Letter D2023/067870,21/11/2023
+9330070900,Portland,207.88,URGS Application Successful Letter FC2023/15333,27/11/2023
+5203900900,Warrnambool,606.37,URGS Application Successful Letter FC2023/15335,27/11/2023
+3200750950,Koroit,510.54,URGS Application Successful Letter FC2023/15338,27/11/2023
+9330735750,Portland,614.47,URGS Application Successful Letter FC2023/15340,27/11/2023
+5200330250,Warrnambool,NULL,URGS Application Successful Letter,4/12/2023
+2205190700,Camperdown,NULL,URGS Application Successful Letter,4/12/2023
+4806570250,Terang,NULL,URGS Application Successful Letter,4/12/2023
+9231311300,Port Fairy,NULL,URGS Application Successful Letter,4/12/2023
+5200661450,Warrnambool,NULL,URGS Application Successful Letter,4/12/2023
+3609711350,Mortlake,650,URGS Application Successful Letter FC2023/16336,11/12/2023
+743750750,Hamilton,295.44,URGS Application Successful Letter FC2023/16341,11/12/2023
+743560850,Hamilton,NULL,URGS Application Successful Letter,11/12/2023
+5209510300,Warrnambool,317.08,URGS Application Successful Letter FC2023/16346,11/12/2023
+9232901180,Port Fairy,650,URGS Application Successful Letter FC2023/16347,11/12/2023
+9331440750,Portland,650,URGS Application Successful Letter FC2023/16348,11/12/2023
+9333100200,Portland,650,URGS Application Successful Letter FC2023/16350,11/12/2023
+8305500150,Cobden,NULL,URGS Application Successful Letter,18/12/2023
+3211330500,Koroit,NULL,URGS Application Successful Letter,18/12/2023
+5204590450,Warrnambool,NULL,URGS Application Successful Letter,18/12/2023
+2204610150,Camperdown,NULL,URGS Application Successful Letter,18/12/2023
+3607941300,Mortlake,214.67,URGS Application Successful Letter FC2024/00077,4/01/2024
+9333502100,Portland,181,URGS Application Successful Letter FC2024/00201,8/01/2024
+713170070,Hamilton,93.21,URGS Application Successful Letter FC2024/00611,16/01/2024
+5200300200,Warrnambool,415.28,URGS Application Successful Letter FC2024/00613,16/01/2024
+5211050900,Warrnambool,257.31,URGS Application Successful Letter FC2024/00614,16/01/2024
+5207472450,Warrnambool,408.38,URGS Application Successful Letter FC2024/00616,16/01/2024
+5211062800,Warrnambool,198.87,URGS Application Successful Letter FC2024/00617,16/01/2024
+9330140850,Portland,287.25,URGS Application Successful Letter FC2024/00618,16/01/2024
+9331847050,Portland,650,URGS Application Successful Letter FC2024/00620,16/01/2024
+543372050,Dunkeld,650,URGS Application Successful Letter FC2024/00623,16/01/2024
+5210971050,Warrnambool,NULL,URGS Application Successful Letter,23/01/2024
+3209700700,Koroit,199.29,URGS Application Successful Letter - FC2024/01543,29/01/2024
+3408950200,Derrinallum,43.47,URGS Application Successful Letter - FC2024/01547,29/01/2024
+9231311300,Port Fairy,205.48,URGS Application Successful Letter - FC2024/01548,29/01/2024
+5215420010,Warrnambool,159.84,URGS Application Successful Letter - FC2024/01550,29/01/2024
+9333502100,Portland,187.7,URGS Application Successful Letter - FC2024/01552,29/01/2024
+3205451150,Koroit,186,URGS Application Successful Letter FC2024/01893,5/02/2024
+2204610100,Camperdown,194.46,URGS Application Successful Letter FC2024/01899,5/02/2024
+5200300200,Warrnambool,234.74,URGS Application Successful Letter FC2024/01911,5/02/2024
+5207472450,Warrnambool,241.62,URGS Application Successful Letter FC2024/01912,5/02/2024
+9132891100,Heywood,650,URGS Application Successful Letter FC2024/01913,5/02/2024
+9330140850,Portland,362.75,URGS Application Successful Letter FC2024/01917,5/02/2024
+9330141200,Portland,650,URGS Application Successful Letter FC2024/01918,5/02/2024
+9331847800,Portland,233.32,URGS Application Successful Letter FC2024/01922,5/02/2024
+540020050,Dunkeld,650,URGS Application Successful Letter FC2024/01926,5/02/2024
+5209410700,Warrnambool,NULL,URGS Application Successful Letter,13/02/2024
+5208620575,Dennington,221.91,URGS Application Successful Letter FC2024/02692,19/02/2024
+243830550,Casterton,212.21,URGS Application Successful Letter FC2024/02695,19/02/2024
+1142640250,Sandford,389.75,URGS Application Successful Letter - FC2024/03542,26/02/2024
+741452750,Hamilton,606.97,URGS Application Successful Letter - FC2024/03543,26/02/2024
+242991950,Casterton,650,URGS Application Successful Letter - FC2024/03545,26/02/2024
+3607321400,Mortlake,650,URGS Application Successful Letter - FC2024/03546,26/02/2024
+5202701100,Warrnambool,315.3,URGS Application Successful Letter - FC2024/03549,26/02/2024
+5206830350,Warrnambool,198.8,URGS Application Successful Letter - FC2024/03555,26/02/2024
+5211062800,Warrnambool,193.93,URGS Application Successful Letter - FC2024/03564,26/02/2024
+9331847800,Portland,232.32,URGS Application Successful Letter - FC2024/03566,26/02/2024
+5212430700,Warrnambool,87.75,URGS Application Successful Letter FC2024/03571,26/02/2024
+2208450200,Camperdown,NULL,URGS Application Successful Letter,5/03/2024
+9330220900,Portland,NULL,URGS Application Successful Letter,5/03/2024
+5210730200,Warrnambool,NULL,URGS Application Successful Letter,5/03/2024
+5209410700,Warrnambool,NULL,URGS Application Successful Letter,5/03/2024
+5204590450,Warrnambool,NULL,URGS Application Successful Letter,5/03/2024
+3600922725,Mortlake,650,URGS Application Successful Letter,5/03/2024
+5212430700,Warrnambool,NULL,URGS Application Successful Letter,5/03/2024
+3205063850,Koroit,470.97,URGS Application Successful Letter FC2024/04382,12/03/2024
+3405071050,Lismore,254.05,URGS Application Successful Letter FC2024/04384,12/03/2024
+9133310100,Heywood,NULL,URGS Application Successful Letter,13/03/2024
+5209210250,Warrnambool,NULL,URGS Application Successful Letter,13/03/2024
+5208350300,Warrnambool,650,URGS Application Successful Letter,13/03/2024
+5206120300,Warrnambool,NULL,URGS Application Successful Letter,13/03/2024
+9330500250,Portland,650,URGS Application Successful Letter - FC2024/04776,19/03/2024
+9330020450,Portland,650,URGS Application Successful Letter - FC2024/04778,19/03/2024
+841290350,Macarthur,650,URGS Application Successful Letter - FC2024/04781,19/03/2024
+5211720450,Dennington,650,URGS Application Successful Letter - FC2024/04782,19/03/2024
+5207273950,Warrnambool,650,URGS Application Successful Letter - FC2024/04783,19/03/2024
+2208450200,Camperdown,213.08,URGS Application Successful Letter - FC2024/04784,19/03/2024
+3000820200,Cobden,437.29,URGS Application Successful Letter - FC2024/04788,19/03/2024
+2205120800,Camperdown,187.94,URGS Application Successful Letter - FC2024/04789,19/03/2024
+9333651000,Portland,NULL,URGS Application Successful Letter,25/03/2024
+5208804220,Warrnambool,NULL,URGS Application Successful Letter,25/03/2024
+5208760250,Warrnambool,NULL,URGS Application Successful Letter,25/03/2024
+5206830350,Warrnambool,NULL,URGS Application Successful Letter,25/03/2024
+5204843100,Dennington,NULL,URGS Application Successful Letter,25/03/2024
+744243800,Hamilton,NULL,URGS Application Successful Letter,25/03/2024
+243830550,Casterton,NULL,URGS Application Successful Letter,25/03/2024
+9330270100,Portland,167.43,URGS Application Successful Letter FC2024/05276,2/04/2024
+5207901300,Warrnambool,171.05,URGS Application Successful Letter - FC2024/05636,9/04/2024
+5212472050,Dennington,207.71,URGS Application Successful Letter - FC2024/05672,9/04/2024
+5213620260,Warrnambool,321.1,URGS Application Successful Letter - FC2024/05673,9/04/2024
+9332650100,Portland,357.08,URGS Application Successful Letter - FC2024/05676,9/04/2024
+5215490150,Warrnambool,NULL,URGS Application Successful Letter,16/04/2024
+5208690306,Allansford,NULL,URGS Application Successful Letter,16/04/2024
+1042821000,Penshurst,NULL,URGS Application Successful Letter,18/04/2024
+740775650,Hamilton,NULL,URGS Application Successful Letter,18/04/2024
+440650700,Coleraine,NULL,URGS Application Successful Letter,18/04/2024
+741664120,Hamilton,504.46,URGS Application Successful Letter FC2024/06290,22/04/2024
+744040800,Hamilton,650,URGS Application Successful Letter FC2024/06291,22/04/2024
+3600922650,Mortlake,650,URGS Application Successful Letter FC2024/06293,22/04/2024
+3607320950,Mortlake,169.57,URGS Application Successful Letter FC2024/06294,22/04/2024
+244090700,Casterton,650,URGS Application Successful Letter FC2024/06296,22/04/2024
+9231311650,Port Fairy,420.2,URGS Application Successful Letter FC2024/06298,22/04/2024
+5206150800,Warrnambool,244.08,URGS Application Successful Letter FC2024/06301,22/04/2024
+5207741850,Warrnambool,194.23,URGS Application Successful Letter FC2024/06304,22/04/2024
+5210730200,Warrnambool,131.5,URGS Application Successful Letter FC2024/06305,22/04/2024
+9331302200,Portland,383.37,URGS Application Successful Letter FC2024/06306,22/04/2024
+9331910300,Portland,210.27,URGS Application Successful Letter FC2024/06308,22/04/2024
+9332513350,Portland,207.43,URGS Application Successful Letter FC2024/06311,22/04/2024
+5200330200,Warrnambool,650,URGS Application Successful Letter FC2024/06315,22/04/2024
+5200441550,Warrnambool,179.96,URGS Application Successful Letter FC2024/06316,22/04/2024
+5208620575,Dennington,224.69,URGS Application Successful Letter - FC2024/06557,29/04/2024
+3205451150,Koroit,191.62,URGS Application Successful Letter - FC2024/06559,29/04/2024
+740775100,Hamilton,243.83,URGS Application Successful Letter - FC2024/06575,29/04/2024
+5203480950,Warrnambool,NULL,URGS Application Successful Letter,7/05/2024
+5203920850,Warrnambool,650,URGS Application Successful Letter - FC2024/07036,7/05/2024
+741664300,Hamilton,200.76,URGS Application Successful Letter - FC2024/07040,7/05/2024
+5206951500,Warrnambool,650,URGS Application Successful Letter - FC2024/07045,7/05/2024
+5200080775,Warrnambool,342.1,URGS Application Successful Letter - FC2024/07047,7/05/2024
+5206491550,Warrnambool,40.43,URGS Application Successful Letter - FC2024/07047,7/05/2024
+9133183000,Heywood,387.7,URGS Application Successful Letter - FC2024/07047,7/05/2024
+5205520850,Warrnambool,228.51,URGS Application Successful Letter FC2024/07094,8/05/2024
+5212472050,Dennington,182.44,URGS Application Successful Letter FC2024/07097,8/05/2024
+9331000300,Portland,605.4,URGS Application Successful Letter FC2024/07106,8/05/2024
+9330633750,Portland,341.06,URGS Application Successful Letter FC2024/07109,8/05/2024
+9330450650,Portland,148.75,URGS Application Successful Letter FC2024/07112,8/05/2024
+9332030250,Portland,421.9,URGS Application Successful Letter - FC2024/07120,8/05/2024
+740200200,Hamilton,164.15,URGS Application Successful Letter FC2024/07458,14/05/2024
+742277600,Hamilton,483.13,URGS Application Successful Letter FC2024/07459,14/05/2024
+2208450200,Camperdown,189.53,URGS Application Successful Letter FC2024/07460,14/05/2024
+2608300100,Caramut,650,URGS Application Successful Letter FC2024/07462,14/05/2024
+5200660350,Warrnambool,472.98,URGS Application Successful Letter FC2024/07464,14/05/2024
+5204310700,Warrnambool,149.65,URGS Application Successful Letter FC2024/07469,14/05/2024
+5211390150,Warrnambool,650,URGS Application Successful Letter FC2024/07476,14/05/2024
+5215420010,Warrnambool,81.51,URGS Application Successful Letter FC2024/07477,14/05/2024
+9131260300,Heywood,246.53,URGS Application Successful Letter FC2024/07478,14/05/2024
+9331971800,Portland,221.33,URGS Application Successful Letter FC2024/07479,14/05/2024
+9333601400,Portland,575.62,URGS Application Successful Letter FC2024/07480,14/05/2024
+5211550000,Dennington,NULL,URGS Application Successful Letter,14/05/2024
+9133310100,Heywood,156.95,URGS Application Successful Letter FC2024/07484,14/05/2024
+743991450,Hamilton,NULL,URGS Application Successful Letter,14/05/2024
+2201011300,Camperdown,180.76,URGS Application Successful Letter - FC2024/07719,21/05/2024
+2205120800,Camperdown,181.17,URGS Application Successful Letter - FC2024/07722,21/05/2024
+5206120300,Warrnambool,43.25,URGS Application Successful Letter - FC2024/07723,21/05/2024
+5212410300,Warrnambool,605.55,URGS Application Successful Letter - FC2024/07726,21/05/2024
+9332660850,Portland,192.1,URGS Application Successful Letter - FC2024/07729,21/05/2024
+3408010525,Lismore,650,URGS Application Successful Letter - FC2024/07986,27/05/2024
+741430650,Hamilton,650,URGS Application Successful Letter - FC2024/07989,27/05/2024
+5207220450,Warrnambool,463.58,URGS Application Successful Letter - FC2024/07990,27/05/2024
+9231310750,Port Fairy,488.43,URGS Application Successful Letter - FC2024/07991,27/05/2024
+5209022200,Dennington,342.95,URGS Application Successful Letter - FC2024/08004,28/05/2024
+5200441550,Warrnambool,NULL,URGS Application Successful Letter,28/05/2024
+5200441550,Warrnambool,183.95,URGS Application Successful Letter - FC2024/08013,28/05/2024
+5200301500,Warrnambool,323.98,URGS Application Successful Letter - FC2024/08016,28/05/2024
+3404520700,Lismore,301.42,URGS Application Successful Letter - FC2024/08017,28/05/2024
+2210680525,Camperdown,425.48,URGS Application Successful Letter - FC2024/08022,28/05/2024
+2202011550,Camperdown,650,URGS Application Successful Letter - FC2024/08029,28/05/2024
+941830350,Merino,650,URGS Application Successful Letter - FC2024/08030,28/05/2024
+741453400,Hamilton,597.76,URGS Application Successful Letter FC2024/08037,28/05/2024
+741910450,Hamilton,220.94,URGS Application Successful Letter FC2024/08038,28/05/2024
+5211062800,Warrnambool,203.51,URGS Application Successful Letter - FC2024/08309,3/06/2024
+9331302200,Portland,266.63,URGS Application Successful Letter - FC2024/08310,3/06/2024
+9332470200,Portland,650,URGS Application Successful Letter - FC2024/08994,13/06/2024
+9230040600,Port Fairy,140.73,URGS Application Successful Letter - FC2024/08995,13/06/2024
+5213620260,Warrnambool,263.45,URGS Application Successful Letter - FC2024/08998,13/06/2024
+5211100400,Warrnambool,650,URGS Application Successful Letter - FC2024/09005,13/06/2024
+5207900200,Warrnambool,650,URGS Application Successful Letter - FC2024/09018,13/06/2024
+5207741850,Warrnambool,187.46,URGS Application Successful Letter - FC2024/09019,13/06/2024
+5207551800,Warrnambool,650,URGS Application Successful Letter - FC2024/09021,13/06/2024
+5206081500,Warrnambool,501.32,URGS Application Successful Letter - FC2024/09023,13/06/2024
+5202970050,Warrnambool,240.65,URGS Application Successful Letter - FC2024/09027,13/06/2024
+5200440900,Warrnambool,336.54,URGS Application Successful Letter - FC2024/09028,13/06/2024
+741110350,Hamilton,206.64,URGS Application Successful Letter - FC2024/09029,13/06/2024
+740775100,Hamilton,NULL,URGS Application Successful Letter,17/06/2024
+5200662550,Warrnambool,575,URGS Application Successful Letter - FC2024/09669,24/06/2024
+9232902750,Port Fairy,434.22,URGS Application Successful Letter - FC2024/09674,24/06/2024
+742320800,Hamilton,381.04,URGS Application Successful Letter - FC2024/10150,2/07/2024
+9132890500,Heywood,650,URGS Application Successful Letter - FC2024/10150,2/07/2024
+2411220350,Camperdown,650,URGS Application Successful Letter FC2024/10478,9/07/2024
+5202701450,Warrnambool,365.26,URGS Application Successful Letter FC2024/10479,9/07/2024
+744243350,Hamilton,650,URGS application Successful Letter FC2024/10481,9/07/2024
+5203160015,Warrnambool,60.31,URGS Application Successful Letter FC2024/10483,9/07/2024
+5206952050,Warrnambool,430.32,URGS Application Successful Letter FC2024/10489,9/07/2024
+5207425620,Warrnambool,428.65,URGS Application Successful Letter FC2024/10493,9/07/2024
+9331850400,Portland,650,URGS Application Successful Letter FC2024/10495,9/07/2024
+5205560500,Warrnambool,NULL,URGS Application Successful Letter,9/07/2024
+9133290200,Heywood,582.55,URGS Application Successful Letter FC2024/10497,9/07/2024
+740190200,Hamilton,650,URGS Application Successful Letter - FC2024/10803,15/07/2024
+744140400,Hamilton,650,URGS Application Successful Letter - FC2024/10805,15/07/2024
+3603401275,Mortlake,650,URGS Application Successful Letter - FC2024/10807,15/07/2024
+3007351200,Cobden,599.92,URGS Application Successful Letter - FC2024/10808,15/07/2024
+5200480600,Warrnambool,402.43,URGS Application Successful Letter - FC2024/10809,15/07/2024
+5200660350,Warrnambool,137.73,URGS Application Successful Letter - FC2024/11239,22/07/2024
+741910450,Hamilton,429.06,URGS Application Successful Letter - FC2024/11241,22/07/2024
+5200662550,Warrnambool,75,URGS Application Successful Letter - FC2024/11253,22/07/2024
+243830550,Casterton,129.09,URGS Application Successful Letter FC2024/11644,29/07/2024
+5212472050,Dennington,180.36,URGS Application Successful Letter FC2024/11653,29/07/2024
+743812400,Hamilton,252.4,URGS Application Successful Letter FC2024/11656,29/07/2024
+3000050150,Cobden,617.62,URGS Application Successful Letter FC2024/11658,29/07/2024
+5205370350,Warrnambool,650,URGS Application Successful Letter FC2024/11666,29/07/2024
+5209022200,Dennington,147.83,URGS Application Successful Letter FC2024/11668,29/07/2024
+5209581100,Warrnambool,200.15,URGS Application Successful Letter FC2024/11669,29/07/2024
+5211550000,Dennington,90.45,URGS Application Successful Letter FC2024/11670,29/07/2024
+740970600,Hamilton,276.65,URGS Application Successful Letter,5/08/2024
+5204310700,Warrnambool,397.33,URGS Application Successful Letter FC2024/12059,5/08/2024
+5207530100,Warrnambool,218.16,URGS Application Successful Letter FC2024/12063,5/08/2024
+9033830700,Dartmoor,281.99,URGS Application Successful Letter FC2024/12065,5/08/2024
+9232902750,Port Fairy,215.78,URGS Application Successful Letter FC2024/12067,5/08/2024
+9330632400,Portland,650,URGS Application Successful Letter FC2024/12069,5/08/2024
+9331910300,Portland,182.19,URGS Application Successful Letter FC2024/12070,5/08/2024
+244070250,Casterton,650,URGS Application Successful Letter FC2024/12071,5/08/2024
+742980050,Hamilton,559.51,URGS Application Successful Letter - FC2024/12451,13/08/2024
+2011405150,Allansford,261.65,URGS Application Successful Letter - FC2024/12453,13/08/2024
+2208450200,Camperdown,78.69,URGS Application Successful Letter - FC2024/12455,13/08/2024
+2210680525,Camperdown,167.42,URGS Application Successful Letter - FC2024/12456,13/08/2024
+5202970050,Warrnambool,206.14,URGS Application Successful Letter - FC2024/12458,13/08/2024
+441460050,Coleraine,475.59,URGS Application Successful Letter - FC2024/13527,29/08/2024
+5206250150,Warrnambool,602.23,URGS Application Successful Letter - FC2024/13715,3/09/2024
+5207741850,Warrnambool,178.33,URGS Application Successful Letter FC2024/14106,10/09/2024
+5200480600,Warrnambool,185.45,URGS Application Successful Letter - FC2024/14533,17/09/2024
+9330760250,Portland,650,URGS Application Successful Letter - FC2024/14540,17/09/2024
+5207530100,Warrnambool,268.16,URGS Application Successful Letter - FC2024/14542,17/09/2024
+9332741400,Portland,NULL,URGS Application Successful Letter,17/09/2024
+5207423100,Warrnambool,216.05,URGS Application Successful Letter - FC2024/14879,23/09/2024
+9214360300,Port Fairy,563.09,URGS Application Successful Letter FC2024/15348,30/09/2024
+2408180400,Camperdown,134.83,URGS Application Successful Letter FC2024/15349,30/09/2024
+5211050350,Warrnambool,186.25,URGS Application Successful Letter FC2024/15351,30/09/2024
+243700500,Casterton,650,URGS Application Successful Letter FC2024/16055,15/10/2024
+243211450,Casterton,417.69,URGS Application Successful Letter FC2024/16058,15/10/2024
+5210430400,Warrnambool,650,URGS Application Successful Letter FC2024/16073,15/10/2024
+4800760650,Terang,204.16,URGS Application Successful Letter - FC2024/16075,15/10/2024
+5209561200,Warrnambool,163.89,URGS Application Successful Letter FC2024/16074,15/10/2024
+5202050050,Warrnambool,157.48,URGS Application Successful Letter FC2024/16077,15/10/2024
+2011405150,Allansford,191.16,URGS Application Successful Letter - FC2024/16078,15/10/2024
+444470500,Coleraine,650,URGS Application Successful Letter FC2024/16079,15/10/2024
+3600920560,Mortlake,218.37,URGS Application Successful Letter - FC2024/16080,15/10/2024
+2209141850,Camperdown,321.26,URGS Application Successful Letter - FC2024/16083,15/10/2024
+444730800,Coleraine,627.11,URGS Application Successful Letter FC2024/16086,15/10/2024
+2206870325,Camperdown,144.24,URGS Application Successful Letter - FC2024/16090,15/10/2024
+544350550,Dunkeld,650,URGS Application Successful Letter FC2024/16088,15/10/2024
+444735100,Coleraine,650,URGS Application Successful Letter FC2024/16094,16/10/2024
+4807020750,Terang,192.08,URGS Application Successful Letter - FC2024/16095,16/10/2024
+740000350,Hamilton,396.78,URGS Application Successful Letter FC2024/16097,16/10/2024
+4806390300,Terang,159.31,URGS Application Successful Letter - FC2024/16098,16/10/2024
+740970600,Hamilton,121.2,URGS Application Successful Letter FC2024/16099,16/10/2024
+5209260350,Warrnambool,650,URGS Application Successful Letter - FC2024/16100,16/10/2024
+744711850,Hamilton,426.49,URGS Application Successful Letter - FC2024/16111,16/10/2024
+741110350,Hamilton,222.35,URGS Application Successful Letter FC2024/16107,16/10/2024
+743160075,Hamilton,181.73,URGS Application Successful Letter FC2024/16112,16/10/2024
+744630850,Hamilton,650,URGS Application Successful Letter - FC2024/16115,16/10/2024
+742970700,Hamilton,100.52,URGS Application Successful Letter FC2024/16114,16/10/2024
+5200430550,Warrnambool,210.04,URGS Application Successful Letter - FC2024/16117,16/10/2024
+743680100,Hamilton,562.67,URGS Application Successful Letter FC2024/16116,16/10/2024
+744080550,Hamilton,NULL,URGS Application Successful Letter,16/10/2024
+744292500,Hamilton,289.55,URGS Application Successful Letter - FC2024/16119,16/10/2024
+5200950500,Warrnambool,650,URGS Application Successful Letter - FC2024/16154,16/10/2024
+5201040600,Warrnambool,202.97,URGS Application Successful Letter - FC2024/16155,16/10/2024
+5202684300,Warrnambool,530.95,URGS Application Successful Letter - FC2024/16157,16/10/2024
+5200443800,Warrnambool,185.52,URGS Application Successful Letter - FC2024/16159,16/10/2024
+5206120300,Warrnambool,30.14,URGS Application Successful Letter - FC2024/16163,16/10/2024
+9332765100,Portland,449.27,URGS Application Successful Letter - FC2024/16164,16/10/2024
+5207631550,Warrnambool,251.82,URGS Application Successful Letter - FC2024/16164,16/10/2024
+9332412000,Portland,NULL,URGS Application Successful Letter,16/10/2024
+5208620575,Dennington,203.4,URGS Application Successful Letter - FC2024/16168,16/10/2024
+5208800360,Warrnambool,198.85,URGS Application Successful Letter - FC2024/16169,16/10/2024
+5204280550,Warrnambool,650,URGS Application Successful Letter - FC2024/16170,16/10/2024
+9331971250,Portland,635.07,URGS Application Successful Letter FC2024/16172,16/10/2024
+9232900220,Port Fairy,650,URGS Application Successful Letter - FC2024/16174,16/10/2024
+9332410350,Portland,165.15,URGS Application Successful Letter FC2024/16178,16/10/2024
+9231311200,Port Fairy,625.9,URGS Application Successful Letter - FC2024/16179,16/10/2024
+5208781000,Warrnambool,650,URGS Application Successful Letter FC2024/16180,16/10/2024
+9131290450,Heywood,650,URGS Application Successful Letter - FC2024/16183,16/10/2024
+9331847800,Portland,220.94,URGS Application Successful Letter FC2024/16184,16/10/2024
+9331301380,Portland,329.44,URGS Application Successful Letter - FC2024/16185,16/10/2024
+5207220450,Warrnambool,363.69,URGS Application Successful Letter FC2024/16186,16/10/2024
+9132322600,Heywood,650,URGS Application Successful Letter - FC2024/16188,16/10/2024
+9330882950,Portland,650,URGS Application Successful Letter FC2024/16189,16/10/2024
+9330691200,Portland,304.52,URGS Application Successful Letter - FC2024/16210,17/10/2024
+5211450330,Warrnambool,555.04,URGS Application Successful Letter - FC2024/16212,17/10/2024
+5211480860,Dennington,244.87,URGS Application Successful Letter - FC2024/16215,17/10/2024
+8107670725,Carpendeit,650,URGS Application Successful Letter - FC2024/16217,17/10/2024
+9131150750,Heywood,181.5,URGS Application Successful Letter - FC2024/16219,17/10/2024
+9332681050,Portland,566.6,URGS Application Successful Letter - FC2024/16222,17/10/2024
+841290200,Macarthur,NULL,URGS Application Successful Letter,21/10/2024
+3202522650,Koroit,650,URGS Application Successful Letter FC2024/16356,21/10/2024
+5206951650,Warrnambool,356.54,URGS Application Successful Letter FC2024/16357,21/10/2024
+9330300500,Portland,257.2,URGS Application Successful Letter FC2024/16359,21/10/2024
+942440350,Merino,650,URGS Application Successful Letter FC2024/16360,21/10/2024
+243211450,Casterton,110.93,URGS Application Successful Letter - FC2024/16822,29/10/2024
+4800760650,Terang,238.69,URGS Application Successful Letter - FC2024/16824,29/10/2024
+5206151500,Warrnambool,560.87,URGS Application Successful Letter - FC2024/16825,29/10/2024
+5207631550,Warrnambool,313.42,URGS Application Successful Letter - FC2024/16827,29/10/2024
+5209022200,Dennington,159.22,URGS Application Successful Letter - FC2024/16830,29/10/2024
+9131151400,Heywood,650,URGS Application Successful Letter - FC2024/16831,29/10/2024
+5209561200,Warrnambool,69.24,URGS Application Successful Letter - FC2024/16834,29/10/2024
+740970300,Hamilton,404.7,URGS Application Successful Letter - FC2024/16835,29/10/2024
+5211480860,Dennington,230.12,URGS Application Successful Letter FC2024/16837,29/10/2024
+9331331250,Portland,184.66,URGS Application Successful Letter FC2024/17170,5/11/2024
+9331320950,Portland,578.62,URGS Application Successful Letter FC2024/17172,5/11/2024
+9231311200,Port Fairy,24.1,URGS Application Successful Letter FC2024/17173,5/11/2024
+5206200100,Warrnambool,423.44,URGS Application Successful Letter FC2024/17175,5/11/2024
+5202702750,Warrnambool,166.47,URGS successful letter issued FC2024/17177,5/11/2024
+3600920560,Mortlake,286.22,URGS Application Successful Letter FC2024/17182,5/11/2024
+742221350,Hamilton,167.46,URGS letter issued FC2024/17183,5/11/2024
+743192000,Hamilton,205.56,URGS Application Successful Letter FC2024/17194,5/11/2024
+2206870325,Camperdown,126.66,URGS Application Successful Letter - FC2024/17424,11/11/2024
+5206081500,Warrnambool,84.9,URGS Application Successful Letter - FC2024/17426,11/11/2024
+741620850,Hamilton,195.79,URGS Application Successful Letter - FC2024/17427,11/11/2024
+2206731750,Camperdown,650,URGS Application Successful Letter - FC2024/17430,11/11/2024
+2203851200,Camperdown,568.17,URGS Application Successful Letter - FC2024/17432,11/11/2024
+442872900,Coleraine,274,URGS Application Successful Letter - FC2024/17936,21/11/2024
+742278320,Hamilton,650,URGS Application Successful Letter - FC2024/17939,21/11/2024
+3004540150,Cobden,628.39,URGS Application Successful Letter - FC2024/17941,21/11/2024
+3008370350,Cobden,444.23,URGS Application Successful Letter - FC2024/17943,21/11/2024
+3009880050,Cobden,216.14,URGS Application Successful Letter - FC2024/17944,21/11/2024
+3603360550,Mortlake,650,URGS Application Successful Letter - FC2024/17945,21/11/2024
+5204000350,Warrnambool,650,URGS Application Successful Letter - FC2024/17952,21/11/2024
+5204600050,Warrnambool,650,URGS Application Successful Letter - FC2024/17953,21/11/2024
+5208803160,Warrnambool,177.17,URGS Application Successful Letter - FC2024/17954,21/11/2024
+5209561200,Warrnambool,58.47,URGS Application Successful Letter - FC2024/17955,21/11/2024
+5210711250,Warrnambool,293.9,URGS Application Successful Letter - FC2024/17957,21/11/2024
+9330691200,Portland,260.08,URGS Application Successful Letter - FC2024/17958,21/11/2024
+9331301380,Portland,206.31,URGS Application Successful Letter - FC2024/17961,21/11/2024
+9330300500,Portland,124.54,URGS Application Successful Letter FC2024/18222,27/11/2024
+9331210300,Portland,226.83,URGS Application Successful Letter FC2024/18227,27/11/2024
+5206250150,Warrnambool,47.77,URGS Application Successful Letter FC2024/18230,27/11/2024
+9333650500,Portland,650,URGS Application Successful Letter FC2024/18234,27/11/2024
+9333631650,Portland,218.04,URGS Application Successful Letter - FC2024/18600,4/12/2024
+5200440900,Warrnambool,302.42,URGS Application Successful Letter - FC2024/18608,4/12/2024
+5200443800,Warrnambool,194.43,URGS Application Successful Letter - FC2024/18612,4/12/2024
+9333240050,Portland,650,URGS Application Successful Letter - FC2024/18618,4/12/2024
+9331481650,Portland,439.71,URGS Application Successful Letter - FC2024/18621,4/12/2024
+242991100,Casterton,410.88,URGS Application Successful Letter - FC2024/18626,4/12/2024
+5207530100,Warrnambool,222.94,URGS Application Successful Letter - FC2024/18630,4/12/2024
+5207741850,Warrnambool,89.98,URGS Application Successful Letter - FC2024/18633,4/12/2024
+5210090550,Warrnambool,650,URGS Application Successful Letter - FC2024/18634,4/12/2024
+9033830700,Dartmoor,96.28,URGS Application Successful Letter - FC2024/18638,4/12/2024
+9330490900,Portland,650,URGS Application Successful Letter - FC2024/18641,4/12/2024
+9214360300,Port Fairy,86.91,URGS Application Successful Letter - FC2024/18652,4/12/2024
+741110350,Hamilton,211.48,URGS Application Successful Letter - FC2024/19015,12/12/2024
+5206951200,Warrnambool,650,URGS Application Successful Letter - FC2024/19016,12/12/2024
+5206952050,Warrnambool,104.36,URGS Application Successful Letter - FC2024/19019,12/12/2024
+444470150,Coleraine,205.95,URGS Application Successful Letter - FC2024/19025,12/12/2024
+9330341400,Portland,82.25,URGS Application Successful Letter - FC2024/19026,12/12/2024
+740401750,Hamilton,650,URGS Application Successful Letter FC2024/19345,17/12/2024
+740775100,Hamilton,196.45,URGS Application Successful Letter FC2024/19348,17/12/2024
+742970700,Hamilton,31.64,URGS Application Successful Letter FC2024/19355,17/12/2024
+1244430400,Tarrington,650,URGS Application Successful Letter FC2024/19356,17/12/2024
+5210430350,Warrnambool,650,URGS Application Successful Letter FC2024/19360,17/12/2024
+9333261600,Portland,383.45,URGS Application Successful Letter FC2024/19414,18/12/2024
+241500250,Casterton,650,URGS Application Successful Letter - FC2024/19583,23/12/2024
+242991100,Casterton,235.46,URGS Application Successful Letter - FC2024/19584,23/12/2024
+2011405150,Allansford,197.19,URGS Application Successful Letter - FC2024/19585,23/12/2024
+2205190350,Camperdown,235.46,URGS Application Successful Letter - FC2024/19586,23/12/2024
+3202525250,Koroit,139.65,URGS Application Successful Letter - FC2024/19587,23/12/2024
+5002990750,Timboon,581.79,URGS Application Successful Letter - FC2024/19588,23/12/2024
+5209180200,Warrnambool,546.18,URGS Application Successful Letter - FC2024/19589,23/12/2024
+5212100225,Warrnambool,223.66,URGS Application Successful Letter - FC2024/19590,23/12/2024
+9330130400,Portland,281.75,URGS Application Successful Letter -FC2024/19591,23/12/2024
+9331410800,Portland,200.95,URGS Application Successful Letter - FC2024/19592,23/12/2024
+9331481600,Portland,650,URGS Application Successful Letter - FC2024/19593,23/12/2024
+9331970450,Portland,192.75,URGS Application Successful Letter - FC2024/19594,23/12/2024
+9332515740,Portland,212.98,URGS Application Successful Letter - FC2024/19596,23/12/2024
+743192000,Hamilton,118.87,URGS Application Successful Letter - FC2025/00023,2/01/2025
+3008233400,Cobden,192.18,URGS Application Successful Letter,7/01/2025
+3603402450,Mortlake,368.04,URGS Application Successful Letter - FC2025/00500,14/01/2025
+5210520150,Dennington,234,URGS Application Successful Letter - FC2025/00502,14/01/2025
+5244990360,Warrnambool,281.06,URGS Application Successful Letter - FC2025/00504,14/01/2025
+742221250,Hamilton,391.11,URGS Application Successful Letter FC2025/00924,22/01/2025
+743081950,Hamilton,409.25,URGS Application Successful Letter FC2025/00928,22/01/2025
+744292200,Hamilton,569.67,URGS Application Successful Letter FC2025/00942,22/01/2025
+3008233350,Cobden,650,URGS Application Successful Letter FC2025/00946,22/01/2025
+3806630075,Noorat,219.68,URGS Application Successful Letter FC2025/00949,22/01/2025
+4800760650,Terang,207.15,URGS Application Successful Letter FC2025/00950,22/01/2025
+9331910300,Portland,185.38,URGS Application Successful Letter FC2025/00954,22/01/2025
+740775650,Hamilton,318.67,URGS Application Successful Letter - FC2025/01168,28/01/2025
+5200430650,Warrnambool,259.01,URGS Application Successful Letter - FC2025/01170,28/01/2025
+5206151400,Warrnambool,650,URGS Application Successful Letter - FC2025/01171,28/01/2025
+9331303580,Portland,628.08,URGS Application Successful Letter - FC2025/01174,28/01/2025
+9331482750,Portland,370.44,URGS Application Successful Letter - FC2025/01176,28/01/2025
+9332513350,Portland,409.69,URGS Application Successful Letter - FC2025/01178,28/01/2025
+9332683550,Portland,321.29,URGS Application Successful Letter - FC2025/01188,28/01/2025
+9333090050,Portland,414.56,URGS Application Successful Letter - FC2025/01196,28/01/2025
+240130800,Casterton,650,URGS Application Successful Letter - FC2025/01198,28/01/2025
+442870550,Coleraine,650,URGS Application Successful Letter - FC2025/01199,28/01/2025
+740960350,Hamilton,650,URGS Application Successful Letter - FC2025/01201,28/01/2025
+9333250950,Portland,650,URGS Application Successful Letter - FC2025/01205,28/01/2025
+9333632000,Portland,650,URGS Application Successful Letter - FC2025/01209,28/01/2025
+9330630300,Portland,NULL,URGS Application Successful Letter,29/01/2025
+9132320200,Heywood,650,URGS Application Successful Letter FC2025/01223,29/01/2025
+5207901300,Warrnambool,190.87,URGS Application Successful Letter FC2025/01225,29/01/2025
+5207474600,Warrnambool,175.21,URGS Application Successful Letter FC2025/01230,29/01/2025
+5206330950,Dennington,650,URGS Application Successful Letter FC2025/01242,29/01/2025
+5206174950,Warrnambool,331.79,URGS Application Successful Letter FC2025/01245,29/01/2025
+5204280650,Warrnambool,625.52,URGS Application Successful Letter FC2025/01253,29/01/2025
+3607321275,Mortlake,447.47,URGS Application Successful Letter FC2025/01255,29/01/2025
+2210682300,Camperdown,144.68,URGS Application Successful Letter FC2025/01257,29/01/2025
+2206380550,Camperdown,414.4,URGS Application Successful Letter FC2025/01260,29/01/2025
+2204610550,Camperdown,422.96,URGS Application Successful Letter FC2025/01262,29/01/2025
+743690700,Hamilton,650,URGS Application Successful Letter FC2025/01264,29/01/2025
+742296800,Hamilton,310,URGS Application Successful Letter FC2025/01268,29/01/2025
+741421450,Hamilton,201.25,URGS Application Successful Letter FC2025/01270,29/01/2025
+5205850850,Warrnambool,NULL,URGS Application Successful Letter,4/02/2025
+5205850850,Warrnambool,650,URGS Application Successful Letter - FC2025/01866,6/02/2025
+9131390885,Heywood,184.84,URGS Application Successful Letter - FC2025/01870,6/02/2025
+9230040790,Port Fairy,261.18,URGS Application Successful Letter - FC2025/01871,6/02/2025
+942840350,Merino,650,URGS Application Successful Letter FC2025/02090,11/02/2025
+3010150200,Cobden,650,URGS Application Successful Letter FC2025/02092,11/02/2025
+3603402450,Mortlake,281.96,URGS Application Successful Letter FC2025/02137,11/02/2025
+5202970050,Warrnambool,203.21,URGS Application Successful Letter FC2025/02140,11/02/2025
+5206240550,Warrnambool,163.97,URGS Application Successful Letter FC2025/02143,11/02/2025
+5207480200,Warrnambool,193.96,URGS Application Successful Letter FC2025/02145,11/02/2025
+5207720400,Warrnambool,650,URGS Application Successful Letter FC2025/02147,11/02/2025
+5208803160,Warrnambool,213.37,URGS Application Successful Letter - FC2025/02193,12/02/2025
+9331922900,Portland,459.84,URGS Application Successful Letter - FC2025/02195,12/02/2025
+243670050,Casterton,223.93,URGS Application Successful Letter FC2025/02381,17/02/2025
+9333631650,Portland,239.9,URGS Application Successful Letter FC2025/02384,17/02/2025
+9332121950,Portland,NULL,URGS Application Successful Letter,17/02/2025
+9332513350,Portland,212.58,URGS Application Successful Letter FC2025/02387,17/02/2025
+9331970450,Portland,191.06,URGS Application Successful Letter FC2025/02389,17/02/2025
+9331301380,Portland,114.25,URGS Application Successful Letter FC2025/02399,17/02/2025
+9330734900,Portland,650,URGS Application Successful Letter FC2025/02401,17/02/2025
+9231650200,Port Fairy,650,URGS Application Successful Letter FC2025/02403,17/02/2025
+5205830050,Warrnambool,494.42,URGS Application Successful Letter FC2025/02410,17/02/2025
+2601170200,Caramut,650,URGS Application Successful Letter FC2025/02412,17/02/2025
+2205190350,Camperdown,125.84,URGS Application Successful Letter FC2025/02413,17/02/2025
+743361450,Hamilton,358.32,URGS Application Successful Letter FC2025/02416,17/02/2025
+740681550,Hamilton,226.63,URGS Application Successful Letter FC2025/02418,17/02/2025
+741910150,Hamilton,650,URGS Application Successful Letter - FC2025/02743,24/02/2025
+2204610300,Camperdown,650,URGS Application Successful Letter - FC2025/02754,24/02/2025
+5202140300,Warrnambool,650,URGS Application Successful Letter - FC2025/02756,24/02/2025
+9333261600,Portland,201.02,URGS Application Successful Letter - FC2025/02757,24/02/2025
+9331210300,Portland,257.67,URGS Application Successful Letter - FC2025/02760,24/02/2025
+3002740100,Cobden,650,URGS Application Successful Letter - FC2025/02762,24/02/2025
+742340750,Hamilton,650,URGS Application Successful Letter - FC2025/02763,24/02/2025
+5206174250,Warrnambool,394.77,URGS Application Successful Letter - FC2025/02764,24/02/2025
+9133181600,Heywood,155.57,URGS Application Successful Letter - FC2025/02770,24/02/2025
+9332515740,Portland,287.27,URGS Application Successful Letter - FC2025/02779,24/02/2025
+743194350,Hamilton,243.73,URGS Application Successful Letter - FC2025/02782,24/02/2025
+5215490150,Warrnambool,290.07,URGS Application Successful Letter - FC2025/02783,24/02/2025
+5200443800,Warrnambool,178.8,URGS Application Successful Letter - FC2025/02787,24/02/2025
+3002795250,Cobden,189.46,URGS Application Successful Letter - FC2025/02789,24/02/2025
+740775650,Hamilton,53.39,URGS Application Successful Letter - FC2025/03155,3/03/2025
+5214070500,Warrnambool,650,URGS Application Successful Letter - FC2025/03162,3/03/2025
+5212670225,Warrnambool,126.96,URGS Application Successful Letter - FC2025/03166,3/03/2025
+5211050950,Warrnambool,650,URGS Application Successful Letter - FC2025/03170,3/03/2025
+9331302420,Portland,478.63,URGS Application Successful Letter - FC2025/03176,3/03/2025
+5206120300,Warrnambool,37.46,URGS Application Successful Letter - FC2025/03179,3/03/2025
+742981300,Hamilton,597.05,URGS Application Successful Letter - FC2025/03182,3/03/2025
+5204310650,Warrnambool,650,URGS Application Successful Letter - FC2025/03183,3/03/2025
