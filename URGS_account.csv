@@ -1,4 +1,4 @@
-﻿pk_account,amount,description,evt_datetime
+﻿pk_account,amount,urgs_application_status,evt_datetime
 30038843,500,URGs Application - Successful - FC2017/07269,27/07/2017
 30037503,NULL,URGs Application - Successful - FC2017/07959,16/08/2017
 30018280,NULL,URGs Application - Successful - FC2017/07960,16/08/2017
